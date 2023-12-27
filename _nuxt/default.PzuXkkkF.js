@@ -1,0 +1,1 @@
+import{_ as t}from"./NavBar.cNp_9_nm.js";import{_ as n,c as a,b as c,L as s,o as r}from"./entry.VqHlnx2i.js";const _={},d={class:"container mx-auto p-4"};function f(e,l){const o=t;return r(),a("div",d,[c(o),s(e.$slots,"default")])}const i=n(_,[["render",f]]);export{i as default};
