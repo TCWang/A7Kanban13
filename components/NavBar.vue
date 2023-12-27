@@ -35,13 +35,13 @@
             >
           </li>
           <li>
-            <a href="#" class="text-white">購物黃頁</a>
+            <a href="/area/1.樂善國小/shop" class="text-white">購物黃頁</a>
           </li>
           <li>
-            <a href="#" class="text-white">在地服務</a>
+            <a href="/area/0.A7重劃區/service" class="text-white">在地服務</a>
           </li>
-          <li><a href="#" class="text-white">團購熱搜</a></li>
-          <li><a href="#" class="text-white">採購指南</a></li>
+          <li><a href="/gbuying" class="text-white">團購熱搜</a></li>
+          <li><a href="/procurement" class="text-white">採購指南</a></li>
           <li>
             <a
               href="/websites"
@@ -115,22 +115,31 @@
             >
           </li>
           <li>
-            <a href="#" @click="isOpen = false" class="my-2 inline-block"
+            <a
+              href="/area/1.樂善國小/shop"
+              @click="isOpen = false"
+              class="my-2 inline-block"
               >購物黃頁</a
             >
           </li>
           <li>
-            <a href="#" @click="isOpen = false" class="my-2 inline-block"
+            <a
+              href="/area/0.A7重劃區/service"
+              @click="isOpen = false"
+              class="my-2 inline-block"
               >在地服務</a
             >
           </li>
           <li>
-            <a href="#" @click="isOpen = false" class="my-2 inline-block"
+            <a href="/gbuying" @click="isOpen = false" class="my-2 inline-block"
               >團購熱搜</a
             >
           </li>
           <li>
-            <a href="#" @click="isOpen = false" class="my-2 inline-block"
+            <a
+              href="/procurement"
+              @click="isOpen = false"
+              class="my-2 inline-block"
               >採購指南</a
             >
           </li>

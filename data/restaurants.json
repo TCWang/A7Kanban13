@@ -258,21 +258,6 @@
             "google": "https://www.google.com.tw/maps/place/%E5%A4%A7%E5%A1%8A%E7%89%9B%E6%8E%92/@25.0567614,121.3813803,17z/data=!3m1!4b1!4m5!3m4!1s0x3442a7a6f106274d:0x8f35922046726be2!8m2!3d25.0567614!4d121.3833597?hl=zh-TW&authuser=0"
         },
         {
-            "name": "翔串燒 炭烤",
-            "id": "A7-019",
-            "type": "行動餐車",
-            "address": "桃園市龜山區樂學路與樂學三路交口",
-            "telphone": "0955-893-563",
-            "hours": "17:30 - 23:30 週一公休",
-            "figure": "RES-A7-019.jpeg",
-            "figureLogo": "RES-A7-019.jpeg",
-            "menu": "href=\"https://www.google.com.tw/maps/uv?pb=!1s0x3442a7ac2d8a47f9%3A0x3fac5d503bf0622d!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPx12mMtNd8guaEyl00vO2AlVaMK32pk5zj7WfY%3Dw86-h87-n-k-no!5z6b6c5bGxQTcg54eS54Ok6aSQ6LuKIC0gR29vZ2xlIOaQnOWwiw!15sCgIgAQ&imagekey=!1e10!2sAF1QipPx12mMtNd8guaEyl00vO2AlVaMK32pk5zj7WfY&hl=zh-TW&sa=X&ved=2ahUKEwjoxaPM3LT7AhUWsFYBHQvsDQUQ7ZgBKAN6BAgYEAU",
-            "category": "A7",
-            "category2": "1.樂善國小區",
-            "category3": "樂學路",
-            "google": "https://www.google.com.tw/search?authuser=0&bih=682&biw=1232&hl=zh-TW&tbs=lf:1,lf_ui:9&tbm=lcl&sxsrf=ALiCzsarNuExKsOYreBT1pjqAb97vbr2Vg:1668671155055&q=%E9%BE%9C%E5%B1%B1A7+%E7%87%92%E7%83%A4%E9%A4%90%E8%BB%8A&rflfq=1&num=10&rldimm=4588144719568069165&ved=2ahUKEwi5isa73LT7AhWInFYBHWjjDZEQu9QIegQIDBAJ#rlfi=hd:;si:4588144719568069165;mv:[[25.070317619266984,121.39508188610263],[25.029339446027187,121.32538736705966]]"
-        },
-        {
             "name": "After5 步驟六龜山店",
             "id": "A7-020",
             "type": "咖啡館",
