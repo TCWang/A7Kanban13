@@ -29,7 +29,7 @@
         <ul style="list-style: none" class="flex space-x-8">
           <li>
             <a
-              href="#"
+              href="/city/A7/restaurant"
               class="active border-b-2 border-blue-500 pb-1 text-white"
               >餐廳推薦</a
             >
@@ -107,7 +107,10 @@
 
         <ul style="list-style: none" class="divide-y text-base">
           <li>
-            <a href="#" @click="isOpen = false" class="my-2 inline-block"
+            <a
+              href="/city/A7/restaurant"
+              @click="isOpen = false"
+              class="my-2 inline-block"
               >餐廳推薦</a
             >
           </li>
