@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>A7新林口-社區網站: 生活指引資訊平台</h1>
+    <h1>A7新林口-社區網站: 13.生活指引資訊平台</h1>
     <NuxtImg
       src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-03-a7kanban10.png"
       class="flex flex-row w-20"
@@ -27,9 +27,9 @@
 
 <script setup>
 useHead({
-  title: "A7-生活指引",
+  title: "A7-13.生活指引",
   meta: [
-    { name: "description", content: "A7新林口-社區網站: 生活指引資訊平台 " },
+    { name: "description", content: "A7新林口-社區網站: 13.生活指引資訊平台 " },
   ],
 });
 </script>
