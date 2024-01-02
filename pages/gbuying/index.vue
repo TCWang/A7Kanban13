@@ -25,7 +25,7 @@
 const route = useRoute();
 
 useHead({
-  title: `團購熱搜`,
+  title: `生活指引-團購熱搜`,
 });
 
 definePageMeta({

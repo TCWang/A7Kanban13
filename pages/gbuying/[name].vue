@@ -29,7 +29,7 @@ if (!gbuying.value) {
 }
 
 useHead({
-  title: `團購熱搜:${route.params.name}`,
+  title: `生活指引-團購熱搜:${route.params.name}`,
 });
 
 definePageMeta({

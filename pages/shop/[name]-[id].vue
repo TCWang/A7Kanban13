@@ -29,7 +29,7 @@ if (!shop.value) {
 }
 
 useHead({
-  title: `商店黃頁:${route.params.name}`,
+  title: `生活指引-商店黃頁:${route.params.name}`,
 });
 
 definePageMeta({

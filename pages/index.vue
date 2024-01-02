@@ -1,12 +1,7 @@
 <template>
   <div>
     <h1>A7新林口-社區網站: 13.生活指引資訊平台</h1>
-    <NuxtImg
-      src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-03-a7kanban10.png"
-      class="flex flex-row w-20"
-      alt="A7-生活指引 QRCode"
-    />
-    <p>A7 重劃區 生活指引資訊平台</p>
+
     <div
       class="relative h-screen w-full bg-no-repeat bg-cover bg-bottom bg-[url('https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-03-RestaurantBanner1.jpeg')]"
     >

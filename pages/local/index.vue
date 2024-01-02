@@ -55,7 +55,7 @@
 const route = useRoute();
 
 useHead({
-  title: `在地服務`,
+  title: `生活指引-在地服務`,
 });
 
 definePageMeta({

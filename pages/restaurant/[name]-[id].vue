@@ -30,7 +30,7 @@ if (!restaurant.value) {
 }
 
 useHead({
-  title: `餐廳推薦:${route.params.name}`,
+  title: `生活指引-餐廳推薦:${route.params.name}`,
   // title: capitalizeFirstLetter(route.params.name),
 });
 

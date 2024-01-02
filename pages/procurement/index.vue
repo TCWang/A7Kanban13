@@ -26,7 +26,7 @@
 const route = useRoute();
 
 useHead({
-  title: `採購指南`,
+  title: `生活指引-採購指南`,
 });
 
 definePageMeta({

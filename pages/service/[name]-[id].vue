@@ -26,6 +26,6 @@ if (!service.value) {
 }
 
 useHead({
-  title: `在地服務:${route.params.name}`,
+  title: `生活指引-在地服務:${route.params.name}`,
 });
 </script>

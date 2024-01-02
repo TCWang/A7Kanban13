@@ -24,7 +24,7 @@ const route = useRoute();
 const name = route.params.name;
 
 useHead({
-  title: "採購指南 - " + name,
+  title: "生活指引-採購指南 - " + name,
 });
 
 const procurement = procurements.find((r) => r.item === name);
