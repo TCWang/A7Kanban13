@@ -72,4 +72,4 @@ HUR SmartTouch 電腦化訓練與操作，智慧後臺管理,\r
 智慧地自動增加阻力,\r
 可執行等長的肌力測試,\r
 透過範圍限制器，限制運動範圍</p>\r
-<p>依稀記得那些 6:00 到早泳會發傳單招生的日子；6:30 睡眼惺忪地去開健身房的門準備教早課的日子；強壯的早泳會叔叔阿姨又或是午休時有趣打鬧的教職員班！教課使我們有不一樣的身分和大學生活，讓我們擁有許許多多不一樣的回憶。從 HUR 的智慧後台我們可以看見運動確實帶來「Get Stronger, Feel Younger」的效果，另一方面也訴說著~當中高齡者有能力安排「自己的生活」時，大家看起來都逆轉了實際的年齡數字。</P>`}];export{e as s};
+<p>依稀記得那些 6:00 到早泳會發傳單招生的日子；6:30 睡眼惺忪地去開健身房的門準備教早課的日子；強壯的早泳會叔叔阿姨又或是午休時有趣打鬧的教職員班！教課使我們有不一樣的身分和大學生活，讓我們擁有許許多多不一樣的回憶。從 HUR 的智慧後台我們可以看見運動確實帶來「Get Stronger, Feel Younger」的效果，另一方面也訴說著~當中高齡者有能力安排「自己的生活」時，大家看起來都逆轉了實際的年齡數字。</P>`},{name:"初拾采耳",id:"L011",type:"美",address:"桃園市龜山區文二三街8號",hours:"10:00 - 21:00",figure:"LOC-011-01.jpeg",figureLogo:"LOC-011-02.png",web:"https://trueshihears.com.tw/",line:"https://line.me/R/ti/p/@154evpfc?oat_content=url",category2:"A7",category:"0.A7重劃區",google:"https://www.google.com/maps/place/%E5%88%9D%E6%8B%BE%E9%87%87%E8%80%B3+True+Shih+Ears+%E6%9E%97%E5%8F%A3%E9%BE%9C%E5%B1%B1%E5%BA%97/@25.0597441,121.3619268,18z/data=!4m6!3m5!1s0x3442a71d91c69b47:0x11abb5b8ef241161!8m2!3d25.0597441!4d121.3630211!16s%2Fg%2F11kshfl9zh?authuser=0&hl=zh-TW&entry=ttu"}];export{e as s};
