@@ -1,5 +1,18 @@
 ﻿[
         {
+            "name": "有感覺團購",
+            "id": "G15",
+            "address": "桃園市龜山區文化一路272 號",
+            "telphone": "0966-508-876",
+            "hours": "15:00 - 20:00 週一,六,日公休",
+            "figure": "BUY-G15.png",
+            "web": "https://www.shop2000.com.tw/%E6%9C%89%E6%84%9F%E8%A6%BA%E5%9C%98%E8%B3%BC/product/630446",
+            "facebook": "https://www.facebook.com/privacy/consent/gdp/?params%5Bapp_id%5D=649277785218608&params%5Bkid_directed_site%5D=false&params%5Blogger_id%5D=%22e8a4f296-4429-42b5-bb90-0d05c31938b7%22&params%5Bnext%5D=%22read%22&params%5Bredirect_uri%5D=%22https%3A%5C%2F%5C%2Fwww.shop2000.com.tw%5C%2Fcomm%5C%2Flogin_3nd.aspx%22&params%5Bresponse_type%5D=%22code%22&params%5Breturn_scopes%5D=false&params%5Bscope%5D=%5B%22email%22%5D&params%5Bstate%5D=%22facebook%7C112717%7Chttps%3A%5C%2F%5C%2Fwww.shop2000.com.tw%5C%2F%5Cu6709%5Cu611f%5Cu89ba%5Cu5718%5Cu8cfc%5C%2Fproduct%5C%2F630446%7Cpc%7Cx%7Cosn%22&params%5Bsteps%5D=%7B%22read%22%3A%5B%22email%22%2C%22baseline%22%2C%22public_profile%22%5D%7D&params%5Btp%5D=%22unspecified%22&params%5Bcui_gk%5D=%22%5BPASS%5D%3Alogin_platformization_read%22&source=gdp_delegated",
+            "line": "https://access.line.me/oauth2/v2.1/login?returnUri=%2Foauth2%2Fv2.1%2Fauthorize%2Fconsent%3Fresponse_type%3Dcode%26client_id%3D2002363391%26redirect_uri%3Dhttps%253A%252F%252Fwww.shop2000.com.tw%252Fcomm%252Flogin_3nd.aspx%26scope%3Dprofile%2Bopenid%2Bemail%26state%3Dline%257C112717%257Chttps%253A%252F%252Fwww.shop2000.com.tw%252F%25E6%259C%2589%25E6%2584%259F%25E8%25A6%25BA%25E5%259C%2598%25E8%25B3%25BC%252Fproduct%252F630446%257Cpc%257Cx%257Cosn&loginChannelId=2002363391&loginState=IPoRcU5MQpMDZCH2OnRhI0#/",
+            "goods": "海鮮批發, 日韓服飾, 地方美食, 生活雜貨",
+            "google": "https://www.google.com/maps/place/%E6%9C%89%E6%84%9F%E8%A6%BA%E5%9C%98%E8%B3%BC/@25.047969,121.3843895,17z/data=!4m6!3m5!1s0x3442a7b389299f87:0x4763abff983a7333!8m2!3d25.047969!4d121.3843895!16s%2Fg%2F11t1s870s4?authuser=0&hl=zh-TW&entry=ttu"
+        },
+        {
             "name": "鮮食拼團-林口a7店",
             "id": "G14",
             "build": "2023/11/3",

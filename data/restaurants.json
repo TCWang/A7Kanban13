@@ -1137,6 +1137,36 @@
             "google": "#"
         },
         {
+            "name": "Pizza Hut",
+            "id": "A7-083",
+            "type": "西式餐廳",
+            "address": "桃園市龜山區樂善二路499號",
+            "telphone": "03-328-1639",
+            "hours": "11:00 - 23:00",
+            "figure": "RES-A7-083.jpeg",
+            "figureLogo": "RES-A7-083L.jpeg",
+            "web": "https://www.pizzahut.com.tw/?utm_source=GoogleMyBusiness&utm_medium=organic&utm_campaign=GMB_202007",
+            "menu": "https://www.pizzahut.com.tw/?utm_source=GoogleMyBusiness&utm_medium=organic&utm_campaign=GMB_202007",
+            "category": "A7",
+            "category2": "4.文青國小區",
+            "google": "https://www.google.com/maps/place/PIZZA+HUT%E5%BF%85%E5%8B%9D%E5%AE%A2-%E6%9E%97%E5%8F%A3%E6%96%87%E9%9D%92%E5%BA%97/@25.0460801,121.389007,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a7d34c1f931b:0xaf0bac0c651c1881!8m2!3d25.0460753!4d121.3915819!16s%2Fg%2F11vjtr5hst?authuser=0&hl=zh-TW&entry=ttu"
+        },
+        {
+            "name": "大吉麵包工作坊",
+            "id": "A7-084",
+            "type": "麵包蛋糕",
+            "address": "桃園市龜山區文桃路428號1樓",
+            "telphone": "03-328-0816",
+            "hours": "10:00 - 18:00 周一三五日公休",
+            "figure": "RES-A7-084.jpeg",
+            "figureLogo": "RES-A7-084L.jpeg",
+            "web": "https://redaji2021.weebly.com/",
+            "facebook": "https://www.facebook.com/dagibakery2021/",
+            "category": "A7",
+            "category2": "2.郵政物流區",
+            "google": "https://www.google.com/maps/place/%E5%A4%A7%E5%90%89%E9%BA%B5%E5%8C%85%E5%B7%A5%E4%BD%9C%E5%AE%A4/@25.0471344,121.3905258,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a700f7cbc735:0x14011368050c2dd8!8m2!3d25.0471296!4d121.3931007!16s%2Fg%2F11r7xdk4s1?authuser=0&entry=ttu"
+        },
+        {
             "name": "華潮手創料理",
             "id": "A8-001",
             "type": "無菜單料理",

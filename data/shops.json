@@ -224,8 +224,11 @@
             "id": "S1-016",
             "type": "醫",
             "address": "桃園市龜山區長慶三街66號",
+            "telphone": "03-327-8903",
+            "hours": "09:00 - 21:00",
             "figure": "SHO-S1-016.jpeg",
             "figureLogo": "SHO-S1-016L.jpeg",
+            "facebook": "https://www.facebook.com/profile.php?id=61551556696355",
             "category2": "A7",
             "category": "1.樂善國小",
             "score": "5.0 "
@@ -305,21 +308,6 @@
             "category": "1.樂善國小",
             "score": "5.0 ",
             "google": "https://www.google.com/maps/place/%E5%90%8C%E6%AD%A5%E5%96%AE%E8%BB%8A+sync+bike+shop/@25.0543625,121.3811047,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a756ae07427d:0x90d3740e27d8c0b7!8m2!3d25.0543625!4d121.3836796!16s%2Fg%2F11n06jldmh?authuser=0&hl=zh-TW&entry=ttu"
-        },
-        {
-            "name": "穀米植研所",
-            "id": "S1-024",
-            "type": "食",
-            "address": "桃園市龜山區長慶二街81號",
-            "telphone": "0906-850-311",
-            "hours": "10:00 - 18:00 週三公休 週六日出攤",
-            "figure": "SHO-S1-024.jpeg",
-            "figureLogo": "SHO-S1-024L.jpeg",
-            "web": "https://goomi.boostime.me/",
-            "category2": "A7",
-            "category": "1.樂善國小",
-            "score": "5.0 ",
-            "google": "https://www.google.com/maps/place/%E7%A9%80%E7%B1%B3%E6%A4%8D%E7%A0%94%E6%89%80(%E5%B3%B6%E5%B6%BC%E5%A5%BD%E9%A3%9F%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)/@25.0545848,121.3814087,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a7058087894b:0x9e820a770b09a054!8m2!3d25.0545848!4d121.3839836!16s%2Fg%2F11rv5d4_nv?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
             "name": "憲光跆拳道長庚館",
@@ -515,6 +503,22 @@
             "web": "https://www.oday.com.tw/",
             "category2": "A7",
             "category": "1.樂善國小"
+        },
+        {
+            "name": "翻轉體能 枯木逢春桃園",
+            "id": "S1-039",
+            "type": "育",
+            "address": "桃園市龜山區長慶二街107號",
+            "hours": "13:00 - 20:00, 週日10:00 - 17:00 周五六公休",
+            "figure": "SHO-S1-039.jpeg",
+            "figureLogo": "SHO-S1-039L.jpeg",
+            "facebook": "https://www.facebook.com/BEFlipSC",
+            "line": "https://line.me/R/ti/p/@448xbdls",
+            "ig": "https://www.instagram.com/beflipsc/?fbclid=IwAR3rFOKeW2iO3LW4ovaDM3QilqERMYpSLGZbg4m62eOuYMG97ijpejKmRfE",
+            "category2": "A7",
+            "category": "2.樂善國小",
+            "score": "4.7 ",
+            "google": "https://www.google.com/maps/place/%E7%BF%BB%E8%BD%89%E9%AB%94%E8%83%BD+%E6%9E%AF%E6%9C%A8%E9%80%A2%E6%98%A5%E6%A1%83%E5%9C%92/@25.0549286,121.3844155,21z/data=!4m14!1m7!3m6!1s0x3442a7cbf3667b0f:0x7a14b59074c06479!2z6Iqv57696Jel5bGALem-nOWxseWEquizquiXpeWxgHzlsIjmpa3ol6XluKt85o6o6Jam6Jel5bGAfOS_neWBpeWTgeirruiponzmhaLmgKfomZXmlrnnrot85bCI5qWt6Kuu6Kmi6Jel5bir!8m2!3d25.055484!4d121.3844562!16s%2Fg%2F11y227fbkf!3m5!1s0x3442a7c06badacdb:0x6e8345391c0b89e6!8m2!3d25.0549078!4d121.3845325!16s%2Fg%2F11rr0ssj5r?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
             "name": "7ELEVEn 恆耀門市",
@@ -838,6 +842,60 @@
             "google": "https://www.google.com/maps/place/%E6%9C%89%E5%B7%A2%E6%B0%8F%E6%88%BF%E5%B1%8B%E9%BE%9C%E5%B1%B1A7%E8%8F%AF%E8%AA%A0%E5%8A%A0%E7%9B%9F%E5%BA%97/@25.0465346,121.38289,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a72fe9811eb5:0x2c31897064add6ff!8m2!3d25.0465346!4d121.3854703!16s%2Fg%2F11sq8cj2r7?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
+            "name": "瑞麟美而美",
+            "id": "S3-019",
+            "type": "食",
+            "address": "桃園市龜山區文化一路290號",
+            "telphone": "03-397-3280",
+            "hours": "06:30 - 13:30 週一公休",
+            "figure": "SHO-S3-019.jpeg",
+            "figureLogo": "SHO-S3-019L.jpeg",
+            "category2": "A7",
+            "category": "3.中心商業",
+            "score": "3.3 ",
+            "google": "https://www.google.com/maps/place/%E7%91%9E%E9%BA%9F%E7%BE%8E%E8%80%8C%E7%BE%8E+%E9%BE%9C%E5%B1%B1%E7%AB%B9%E5%9F%8E%E7%94%B2%E5%AD%90%E5%9C%92%E5%BA%97/@25.0481287,121.3819062,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a7dce84c1fc1:0x2d1d4ceea3913ff0!8m2!3d25.0481239!4d121.3844811!16s%2Fg%2F11l5jtskzm?authuser=0&hl=zh-TW&entry=ttu"
+        },
+        {
+            "name": "EVA Hair 髮廊",
+            "id": "S3-020",
+            "type": "美",
+            "address": "桃園市龜山區文化一路286號",
+            "hours": "11:00 - 18:00 週六日公休",
+            "figure": "SHO-S3-020.jpeg",
+            "figureLogo": "SHO-S3-020L.jpeg",
+            "category2": "A7",
+            "category": "3.中心商業",
+            "google": "https://www.google.com/maps/place/Eva+hair/@25.029286,121.3860166,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a72980cb37cf:0xb1d39673aa8c54d7!8m2!3d25.0292812!4d121.3885915!16s%2Fg%2F11sdsx0_k3?authuser=0&hl=zh-TW&entry=ttu"
+        },
+        {
+            "name": "蓁好蔬果1號店",
+            "id": "S3-021",
+            "type": "食",
+            "address": "桃園市龜山區文化一路286號1樓",
+            "hours": "11:00 - 21:00 週六11:00 - 18:00 週日一公休",
+            "figure": "SHO-S3-021.jpeg",
+            "figureLogo": "SHO-S3-021L.jpeg",
+            "line": "https://line.me/ti/g2/OLNpD6pPMwGHTJPhi2_ldEAI6gaFuj6d9vH53w?utm_source=invitation&utm_medium=link_copy&utm_campaign=default",
+            "category2": "A7",
+            "category": "3.中心商業",
+            "score": "5.0 ",
+            "google": "https://www.google.com/maps/place/%E8%93%81%E5%A5%BD%E8%94%AC%E6%9E%9C1%E8%99%9F%E5%BA%97/@25.0476903,121.3824891,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a7ae7c8d0225:0xb2b3216464a2191a!8m2!3d25.0476855!4d121.385064!16s%2Fg%2F11k52m3sjm?authuser=0&hl=zh-TW&entry=ttu"
+        },
+        {
+            "name": "鵝妹莉卡 生活日用品",
+            "id": "S3-022",
+            "type": "住",
+            "address": "桃園市龜山區文化一路282號",
+            "telphone": "0983-595-172",
+            "hours": "12:00 - 20:00 週日00:00 - 20:00",
+            "figure": "SHO-S3-022.jpeg",
+            "figureLogo": "SHO-S3-022L.jpeg",
+            "category2": "A7",
+            "category": "3.中心商業",
+            "score": "5.0 ",
+            "google": "https://www.google.com/maps/place/%E9%B5%9D%E5%A6%B9%E8%8E%89%E5%8D%A1+%E7%94%9F%E6%B4%BB%E6%97%A5%E7%94%A8%E5%93%81/@25.0477532,121.3822871,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a7fe6bca97fd:0xc684885b758ac56d!8m2!3d25.0477484!4d121.384862!16s%2Fg%2F11v9kkxdgz?authuser=0&hl=zh-TW&entry=ttu"
+        },
+        {
             "name": "小鳥吃吐司 龜山文青店",
             "id": "S4-001",
             "type": "食",
@@ -982,6 +1040,22 @@
             "category": "4.文青國小",
             "score": "3.3 ",
             "google": "https://www.google.com/maps/place/7-ELEVEn+%E6%A8%82%E5%AD%B8%E9%96%80%E5%B8%82/@25.0459504,121.391846,19.38z/data=!4m14!1m7!3m6!1s0x3442a7ef84e6240f:0xb2e95f2d703195a!2z5L2P5ZWG5LiN5YuV55SiLUE35paH6Z2S5ZyL5bCP5Yqg55uf5bqX!8m2!3d25.0462788!4d121.3913698!16s%2Fg%2F11vf2y8y0l!3m5!1s0x3442a7dd76753b6f:0x11a6261d570b6c28!8m2!3d25.0461974!4d121.3918275!16s%2Fg%2F11k4twtn9j?authuser=0&hl=zh-TW&entry=ttu"
+        },
+        {
+            "name": "global art龜山樂善",
+            "id": "S4-011",
+            "type": "育",
+            "address": "桃園市龜山區樂善二路830號",
+            "telphone": "0938-636-169",
+            "hours": "14:00 - 20:00 週六10:00 - 17:00 週日一公休",
+            "figure": "SHO-S4-011.jpeg",
+            "figureLogo": "SHO-S4-011L.jpeg",
+            "web": "https://www.globalart.world/?fbclid=IwAR1IviO7h7een3dpRXmSeR8uod5bpHdLxdTFEWAnRfTHYkHr2EmCpYfsyFM",
+            "facebook": "https://www.facebook.com/profile.php?id=100094677687625",
+            "category2": "A7",
+            "category": "4.文青國小",
+            "score": "5.0 ",
+            "google": "https://www.google.com/maps/place/global+art%E9%BE%9C%E5%B1%B1%E6%A8%82%E5%96%84/@25.0457874,121.3877473,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a7ade53c1c93:0x78f8e1d2396c321c!8m2!3d25.0457826!4d121.3926182!16s%2Fg%2F11y28yyh07?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
             "name": "林居日鮮蔬果",
@@ -2091,5 +2165,20 @@
             "figureLogo": "SHO-S5-076L.jpeg",
             "category2": "A7",
             "category": "5.體育大學"
+        },
+        {
+            "name": "黑箱作業Black Suitcase",
+            "id": "S5-077",
+            "type": "行",
+            "address": "桃園市龜山區文青二路57號",
+            "telphone": "0916-586-997",
+            "hours": "11:00 - 21:00",
+            "figure": "SHO-S5-077.jpeg",
+            "figureLogo": "SHO-S5-077L.jpeg",
+            "facebook": "https://www.facebook.com/profile.php?id=100094124813558",
+            "category2": "A7",
+            "category": "5.體育大學",
+            "score": "5.0 ",
+            "google": "https://www.google.com/maps/place/%E9%BB%91%E7%AE%B1%E4%BD%9C%E6%A5%ADBlack+Suitcase+-%E6%A1%83%E5%9C%92%E6%8D%B7%E9%81%8BA7%E5%BA%97/@25.0388167,121.3870351,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a7d4eaeb9169:0xc37c78d9b5bf00c5!8m2!3d25.0388119!4d121.38961!16s%2Fg%2F11l6jb0st7?authuser=0&hl=zh-TW&entry=ttu"
         }
     ]
