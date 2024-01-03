@@ -1,5 +1,5 @@
 <template>
-  <div class="shadow border w-[200px] mr-10 z-30 h-[140px] md:h-[156px]">
+  <div class="shadow border w-[200px] mr-10 z-10 h-[140px] md:h-[156px]">
     <!-- AREA START -->
     <div
       v-if="false"

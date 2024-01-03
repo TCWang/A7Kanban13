@@ -1,5 +1,5 @@
 <template>
-  <div class="shadow border w-64 mr-10 z-30 h-[90px] md:h-[110px]">
+  <div class="shadow border w-64 mr-10 z-10 h-[90px] md:h-[110px]">
     <!-- LOCATION START -->
     <div class="p-2 flex justify-auto relative cursor-pointer border-b">
       <h3 class="mr-2">地區</h3>

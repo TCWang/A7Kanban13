@@ -105,7 +105,7 @@
           <Logo />
         </span>
 
-        <ul style="list-style: none" class="divide-y text-base">
+        <ul style="list-style: none" class="z-30 divide-y text-base">
           <li>
             <a
               href="/city/A7/restaurant"
