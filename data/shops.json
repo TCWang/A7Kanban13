@@ -80,6 +80,7 @@
             "type": "樂",
             "address": "桃園市龜山區長慶二街5號1樓",
             "telphone": "0955-029-913",
+            "hours": "周一至週日 預約制",
             "figure": "SHO-S1-006.jpeg",
             "figureLogo": "SHO-S1-006L.jpeg",
             "web": "https://docs.google.com/forms/d/e/1FAIpQLSdJtkmDcdb33CReFBESw8Vw6jbAaESOo6Ntw1yNGPZJLBdD5g/viewform?pli=1",
@@ -238,11 +239,16 @@
             "id": "S1-017",
             "type": "美",
             "address": "桃園市龜山區長慶二街3號1樓",
+            "hours": "11:30 - 20:30",
             "figure": "SHO-S1-017.jpeg",
             "figureLogo": "SHO-S1-017L.jpeg",
+            "facebook": "https://www.facebook.com/profile.php?id=61552522941573&mibextid=ZbWKwL",
+            "line": "https://line.me/R/ti/p/@116egxjo?oat_content=qr#~",
+            "ig": "https://www.instagram.com/nabi_beauty20?igsh=NjdqYzB2NTQ4OHlz",
             "category2": "A7",
             "category": "1.樂善國小",
-            "score": "5.0 "
+            "score": "5.0 ",
+            "google": "https://www.google.com/maps/place/%E5%A5%BDHow+Kan%E5%BF%AB%E5%89%AA%E4%BA%8B%E5%8B%99%E6%89%80/@25.0543196,121.3801818,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a7fd67b0653b:0x8d62665d7fe82324!8m2!3d25.0543196!4d121.3827567!16s%2Fg%2F11vj6knzk0?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
             "name": "芸舞蹈工作室Yun Ballet Studio",
@@ -275,6 +281,7 @@
             "type": "行",
             "address": "桃園市龜山區長慶二街15號",
             "telphone": "03-397-3107",
+            "hours": "14:00 - 22:00 週六11:00 - 20:00 週日11:00 - 17:00",
             "figure": "SHO-S1-020.jpeg",
             "figureLogo": "SHO-S1-020L.jpeg",
             "category2": "A7",
@@ -516,9 +523,23 @@
             "line": "https://line.me/R/ti/p/@448xbdls",
             "ig": "https://www.instagram.com/beflipsc/?fbclid=IwAR3rFOKeW2iO3LW4ovaDM3QilqERMYpSLGZbg4m62eOuYMG97ijpejKmRfE",
             "category2": "A7",
-            "category": "2.樂善國小",
+            "category": "1.樂善國小",
             "score": "4.7 ",
             "google": "https://www.google.com/maps/place/%E7%BF%BB%E8%BD%89%E9%AB%94%E8%83%BD+%E6%9E%AF%E6%9C%A8%E9%80%A2%E6%98%A5%E6%A1%83%E5%9C%92/@25.0549286,121.3844155,21z/data=!4m14!1m7!3m6!1s0x3442a7cbf3667b0f:0x7a14b59074c06479!2z6Iqv57696Jel5bGALem-nOWxseWEquizquiXpeWxgHzlsIjmpa3ol6XluKt85o6o6Jam6Jel5bGAfOS_neWBpeWTgeirruiponzmhaLmgKfomZXmlrnnrot85bCI5qWt6Kuu6Kmi6Jel5bir!8m2!3d25.055484!4d121.3844562!16s%2Fg%2F11y227fbkf!3m5!1s0x3442a7c06badacdb:0x6e8345391c0b89e6!8m2!3d25.0549078!4d121.3845325!16s%2Fg%2F11rr0ssj5r?authuser=0&hl=zh-TW&entry=ttu"
+        },
+        {
+            "name": "長頸鹿美語 樂善分校",
+            "id": "S1-040",
+            "type": "育",
+            "address": "桃園市龜山區樂學路560號1樓",
+            "telphone": "03-328-2636",
+            "hours": "11:30 - 19:30 週六日公休",
+            "figure": "SHO-S1-040.jpeg",
+            "figureLogo": "SHO-S1-040L.jpeg",
+            "facebook": "https://www.facebook.com/Giraffeleshan",
+            "category2": "A7",
+            "category": "1.樂善國小",
+            "google": "https://www.google.com/maps/place/%E9%95%B7%E9%A0%B8%E9%B9%BF%E7%BE%8E%E8%AA%9E+%E6%A8%82%E5%96%84%E5%88%86%E6%A0%A1/@25.0543203,121.3778862,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a70b1d4d4a77:0x60fa9c09b65992ef!8m2!3d25.0543204!4d121.3827571!16s%2Fg%2F11y1xh09kn?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
             "name": "7ELEVEn 恆耀門市",
