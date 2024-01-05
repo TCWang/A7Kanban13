@@ -1138,6 +1138,20 @@
             "google": "https://www.google.com/maps/place/%E5%A4%A7%E5%90%89%E9%BA%B5%E5%8C%85%E5%B7%A5%E4%BD%9C%E5%AE%A4/@25.0471344,121.3905258,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a700f7cbc735:0x14011368050c2dd8!8m2!3d25.0471296!4d121.3931007!16s%2Fg%2F11r7xdk4s1?authuser=0&entry=ttu"
         },
         {
+            "name": "饗味鹹酥雞 ",
+            "id": "A7-085",
+            "type": "點心冰品",
+            "address": "桃園市龜山區文青二路39號",
+            "telphone": "0920-067-509",
+            "hours": "15:45 - 23:30 週二公休",
+            "figure": "RES-A7-085.jpeg",
+            "figureLogo": "RES-A7-085L.jpeg",
+            "line": "https://line.me/R/ti/p/@586jhaps?oat_content=url",
+            "category": "A7",
+            "category2": "5.合宜住宅區",
+            "google": "https://www.google.com/maps/place/%E9%A5%97%E5%91%B3%E9%B9%B9%E9%85%A5%E9%9B%9E+(%E9%BE%9C%E5%B1%B1%E6%96%87%E9%9D%92%E5%BA%97)/@25.0387548,121.3862769,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a7747528f97b:0x9c171d79569718f3!8m2!3d25.03875!4d121.3888518!16s%2Fg%2F11y21nnzfv?authuser=0&hl=zh-TW&entry=ttu"
+        },
+        {
             "name": "華潮手創料理",
             "id": "A8-001",
             "type": "無菜單料理",
