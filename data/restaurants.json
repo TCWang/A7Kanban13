@@ -121,23 +121,6 @@
             "google": "https://www.google.com.tw/maps/place/%E5%92%95%E5%92%95%E9%9B%9E%E6%97%A9%E5%8D%88%E9%A4%90%E5%BA%97/@25.0543625,121.3814856,17z/data=!3m1!4b1!4m5!3m4!1s0x3442a71710785bb7:0xb8f25ff0936c61c0!8m2!3d25.0543625!4d121.3836796?hl=zh-TW&authuser=0"
         },
         {
-            "name": "穀米植研所",
-            "id": "A7-011",
-            "type": "麵包蛋糕",
-            "address": "桃園市龜山區長慶二街81號",
-            "telphone": "03-327-0962",
-            "hours": "11:00 - 19:00 週三公休",
-            "figure": "RES-A7-011.jpeg",
-            "figureLogo": "RES-A7-011.jpeg",
-            "web": "https://goomi.boostime.me/",
-            "facebook": "https://www.facebook.com/TWGFC",
-            "line": "https://line.me/R/ti/p/%40285yktlu",
-            "category": "A7",
-            "category2": "1.樂善國小區",
-            "category3": "長慶二街",
-            "google": "https://www.google.com.tw/maps/place/%E7%A9%80%E7%B1%B3%E6%A4%8D%E7%A0%94%E6%89%80/@25.0545848,121.3838468,21z/data=!4m5!3m4!1s0x3442a7058087894b:0x9e820a770b09a054!8m2!3d25.0545848!4d121.3839836?hl=zh-TW&authuser=0"
-        },
-        {
             "name": "芬享美味餐廳",
             "id": "A7-012",
             "type": "中式料理",
@@ -444,18 +427,6 @@
             "category2": "3.中心商業區",
             "category3": "樂善三路",
             "google": "https://www.google.com.tw/maps/place/%E6%BB%BF%E5%BF%83%E5%9C%93%E7%89%9B%E8%82%89%E9%8D%8B/@25.0541139,121.3839457,14.99z/data=!4m5!3m4!1s0x3442a7e0308db93b:0x2047401cbc615880!8m2!3d25.0472426!4d121.3824061?hl=zh-TW&authuser=0"
-        },
-        {
-            "name": "樂善寺夜市",
-            "id": "A7-035",
-            "type": "行動餐車",
-            "address": "桃園市龜山區樂善街206巷72號(樂善寺停車場）",
-            "hours": "每星期四, 六 17:00 - 00:00",
-            "figure": "RES-A7-035.jpeg",
-            "figureLogo": "RES-A7-035.jpeg",
-            "category": "A7",
-            "category2": "3.中心商業區",
-            "category3": "樂善街"
         },
         {
             "name": "丘比特麥味登",
