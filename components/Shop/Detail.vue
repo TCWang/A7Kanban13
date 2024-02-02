@@ -63,6 +63,7 @@
           </button>
         </a>
       </div>
+      <div class="mt-2" v-if="shop.description" v-html="shop.description"></div>
     </div>
   </div>
 </template>
