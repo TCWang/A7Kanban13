@@ -72,4 +72,39 @@ HUR SmartTouch 電腦化訓練與操作，智慧後臺管理,\r
 智慧地自動增加阻力,\r
 可執行等長的肌力測試,\r
 透過範圍限制器，限制運動範圍</p>\r
-<p>依稀記得那些 6:00 到早泳會發傳單招生的日子；6:30 睡眼惺忪地去開健身房的門準備教早課的日子；強壯的早泳會叔叔阿姨又或是午休時有趣打鬧的教職員班！教課使我們有不一樣的身分和大學生活，讓我們擁有許許多多不一樣的回憶。從 HUR 的智慧後台我們可以看見運動確實帶來「Get Stronger, Feel Younger」的效果，另一方面也訴說著~當中高齡者有能力安排「自己的生活」時，大家看起來都逆轉了實際的年齡數字。</P>`},{name:"初拾采耳",id:"L011",type:"美",address:"桃園市龜山區文二三街8號",hours:"10:00 - 21:00",figure:"LOC-011-01.jpeg",figureLogo:"LOC-011-02.png",web:"https://trueshihears.com.tw/",line:"https://line.me/R/ti/p/@154evpfc?oat_content=url",category2:"A7",category:"0.A7重劃區",google:"https://www.google.com/maps/place/%E5%88%9D%E6%8B%BE%E9%87%87%E8%80%B3+True+Shih+Ears+%E6%9E%97%E5%8F%A3%E9%BE%9C%E5%B1%B1%E5%BA%97/@25.0597441,121.3619268,18z/data=!4m6!3m5!1s0x3442a71d91c69b47:0x11abb5b8ef241161!8m2!3d25.0597441!4d121.3630211!16s%2Fg%2F11kshfl9zh?authuser=0&hl=zh-TW&entry=ttu"}];export{e as s};
+<p>依稀記得那些 6:00 到早泳會發傳單招生的日子；6:30 睡眼惺忪地去開健身房的門準備教早課的日子；強壯的早泳會叔叔阿姨又或是午休時有趣打鬧的教職員班！教課使我們有不一樣的身分和大學生活，讓我們擁有許許多多不一樣的回憶。從 HUR 的智慧後台我們可以看見運動確實帶來「Get Stronger, Feel Younger」的效果，另一方面也訴說著~當中高齡者有能力安排「自己的生活」時，大家看起來都逆轉了實際的年齡數字。</P>`},{name:"初拾采耳",id:"L011",type:"美",address:"桃園市龜山區文二三街8號",hours:"10:00 - 21:00",figure:"LOC-011-01.jpeg",figureLogo:"LOC-011-02.png",web:"https://trueshihears.com.tw/",line:"https://line.me/R/ti/p/@154evpfc?oat_content=url",category2:"A7",category:"0.A7重劃區",google:"https://www.google.com/maps/place/%E5%88%9D%E6%8B%BE%E9%87%87%E8%80%B3+True+Shih+Ears+%E6%9E%97%E5%8F%A3%E9%BE%9C%E5%B1%B1%E5%BA%97/@25.0597441,121.3619268,18z/data=!4m6!3m5!1s0x3442a71d91c69b47:0x11abb5b8ef241161!8m2!3d25.0597441!4d121.3630211!16s%2Fg%2F11kshfl9zh?authuser=0&hl=zh-TW&entry=ttu"},{name:"菈彼兒童體操館",id:"L012",type:"樂",address:"桃園市龜山區文興路211號1樓",telphone:"03-318-4547",figure:"LOC-012-01.jpeg",figureLogo:"LOC-012-02.png",facebook:"https://www.facebook.com/groups/1951117865015671/user/100063552147299",line:"https://line.me/R/ti/p/%40084czuye",category2:"A7",category:"0.A7重劃區",description:`優惠期限：2/14~2/29 <br>\r
+新學期即將來臨，為何不讓您的孩子嘗試一下體操呢？體操不僅是一項有趣的運動，更是孩子們健康成長的重要一環。\r
+<ul>\r
+<li>全身運動： \r
+體操是一項全身性的運動，能夠促進肌肉發展、提升柔韌性和協調性，同時增強核心肌群。</li>\r
+<li>提升自信：\r
+ 學習體操需要勇氣和毅力，克服困難後的成就感將有助於增強孩子的自信心。</li>\r
+<li>促進認知發展：\r
+體操動作需要精確的空間感知和視覺能力，有助於促進孩子的認知發展和專注力。</li>\r
+<li>社交互動：\r
+參加體操課程可以與其他孩子建立友誼，培養合作和團隊精神。</li>\r
+<li>增強耐心和毅力：\r
+學習體操需要耐心和毅力，這些品質在孩子的成長過程中至關重要。</li>\r
+</ul>\r
+快來加入我們的體操課程，讓您的孩子在新學期中充滿活力和自信！<br>\r
+Line 官方預約帳號：@084czuye <br>\r
+聯絡電話📞：03-3184547<br>\r
+場館地址🚗：桃園市龜山區文興路211號一樓<br>\r
+詳情或相關資訊可至官方Line帳號詢問`},{name:"林口龜山網球課程",id:"L013",type:"樂",figure:"LOC-013-01.jpeg",figureLogo:"LOC-013-02.png",web:"https://www.facebook.com/groups/1951117865015671/permalink/6933420103452064/?mibextid=uJjRxr",facebook:"https://www.facebook.com/groups/2448275045469406/",category2:"A7",category:"0.A7重劃區",description:`<p>\r
+揮灑龍年，挑戰自我，成就無限可能！ 🐉 你還沒學過網球嗎?覺得學習網球很困難嗎? 這正是我們課程的重點！我們了解新手可能面臨的挑戰，特別設計了專屬給網球小白的高CP值速成課。透過這個課程，您將不僅學到正確的動作，更能感受到技巧的進步，信心倍增。\r
+無論你是從零開始，還是有些經驗但感覺動作還不夠到位，在這裡，我們透過紀錄你的學習過程，了解自己的進步軌跡，並且通過專業指導幫助你克服困難，找到最有效的技巧和動作，讓你的技術得到提升，同時增加信心。</p>\r
+\r
+<p>課程結合了專業指導和漸進式教學，讓你在短時間內掌握網球的精髓，無論你是想享受運動的樂趣，還是渴望在球場上展現自己的技藝。\r
+✨立即報名!在新的一年讓網球成為你的激情！✨\r
+</p>\r
+<h3>成人網球團體班第八期</h3>\r
+<ul>\r
+<li>地點：國立體育大學室外網球場</li>\r
+<li>日期： 3/4、3/11、3/18、3/25、4/1</li>\r
+<li>時間：每週一20:00-21:00</li>\r
+<li>費用：早鳥價2300/5堂(2/18前報名)</li>\r
+<li>原價 2600/5堂</li>\r
+<li>可單堂上課喔!580/一堂</li>\r
+<li>報名表單：https://forms.gle/zTGctKUYdyXRWkVj9</li>\r
+<li>報名截止：2/23中午12:00</li>\r
+</ul>`}];export{e as s};
