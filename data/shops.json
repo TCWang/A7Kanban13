@@ -2248,5 +2248,59 @@
             "category": "5.體育大學",
             "score": "5.0 ",
             "google": "https://www.google.com/maps/place/%E9%BB%91%E7%AE%B1%E4%BD%9C%E6%A5%ADBlack+Suitcase+-%E6%A1%83%E5%9C%92%E6%8D%B7%E9%81%8BA7%E5%BA%97/@25.0388167,121.3870351,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a7d4eaeb9169:0xc37c78d9b5bf00c5!8m2!3d25.0388119!4d121.38961!16s%2Fg%2F11l6jb0st7?authuser=0&hl=zh-TW&entry=ttu"
+        },
+        {
+            "name": "博登建設投資",
+            "id": "S5-078",
+            "type": "行",
+            "address": "桃園市龜山區文青二路25號",
+            "figure": "SHO-S5-078.jpeg",
+            "figureLogo": "SHO-S5-078L.jpeg",
+            "category2": "A7",
+            "category": "5.體育大學"
+        },
+        {
+            "name": "全家便利商店 ",
+            "id": "S5-079",
+            "type": "食",
+            "address": "桃園市龜山區文青二路",
+            "figure": "SHO-S5-079.jpeg",
+            "figureLogo": "SHO-S0-FamilyMart.jpeg",
+            "category2": "A7",
+            "category": "5.體育大學"
+        },
+        {
+            "name": "蘊愛托嬰中心",
+            "id": "S5-080",
+            "type": "育",
+            "address": "桃園市龜山區文學路263號",
+            "telphone": "03-318-7138",
+            "figure": "SHO-S5-080.jpeg",
+            "figureLogo": "SHO-S5-080L.jpeg",
+            "category2": "A7",
+            "category": "5.體育大學",
+            "google": "https://www.google.com/maps/place/%E6%A1%83%E5%9C%92%E5%B8%82%E7%A7%81%E7%AB%8B%E8%98%8A%E6%84%9B%E6%89%98%E5%AC%B0%E4%B8%AD%E5%BF%83/@25.0415616,121.3866155,17z/data=!3m2!4b1!5s0x3442a7721b415fcd:0x761e1df5150037d1!4m6!3m5!1s0x3442a7d76c88db61:0x871bd0e42e69372a!8m2!3d25.0415568!4d121.3891904!16s%2Fg%2F11y1z87yg5?hl=zh-TW&entry=ttu"
+        },
+        {
+            "name": "河合音樂教室",
+            "id": "S5-081",
+            "type": "育",
+            "address": "桃園市龜山區文學路229號",
+            "figure": "SHO-S5-081.jpeg",
+            "figureLogo": "SHO-S5-081L.jpeg",
+            "category2": "A7",
+            "category": "5.體育大學"
+        },
+        {
+            "name": "小倉鼠健身坊",
+            "id": "S5-082",
+            "type": "樂",
+            "address": "桃園市龜山區文青路213號2F",
+            "figure": "SHO-S5-082.jpeg",
+            "figureLogo": "SHO-S5-082L.jpeg",
+            "line": "https://line.me/ti/p/@377ijnzz",
+            "category2": "A7",
+            "category": "5.體育大學",
+            "google": "https://www.google.com/maps/place/%E5%B0%8F%E5%80%89%E9%BC%A0%E5%81%A5%E8%BA%AB%E5%9D%8A_+A7+%E9%A6%96%E5%AE%B6+%E7%A7%81%E4%BA%BA%E5%81%A5%E8%BA%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4%EF%BC%8F%E4%B8%80%E5%B0%8D%E4%B8%80%EF%BC%8F%E4%B8%80%E5%B0%8D2%EF%BC%8F%E4%B8%80%E5%B0%8D%E4%B8%89%EF%BC%8F%E5%A5%B3%E6%95%99%E7%B7%B4+%EF%BC%8F%E5%9C%8B%E9%9A%9B%E8%AD%89%E7%85%A7%EF%BC%8F+%E5%A7%BF%E6%85%8B%E7%9F%AF%E6%AD%A3%EF%BC%8F%E9%AB%94%E6%85%8B%E9%9B%95%E5%A1%91%EF%BC%8F%E9%A0%90%E7%B4%84%E5%88%B6%EF%BC%8F%E5%A4%A7%E7%A9%BA%E9%96%93%E5%90%8C%E6%99%82%E6%AE%B5%E6%9C%80%E5%A4%9A%E5%85%A9%E7%B5%84/@25.0403127,121.3865081,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a714f2c1715f:0xb03091fcddcb2874!8m2!3d25.0403079!4d121.389083!16s%2Fg%2F11jjr20wg7?hl=zh-TW&entry=ttu"
         }
     ]

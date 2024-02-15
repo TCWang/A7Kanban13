@@ -1220,6 +1220,20 @@
             "google": "https://www.google.com/maps/place/%E4%BA%9E%E8%8B%A5%E6%B7%87%E6%97%A5%E5%BC%8F%E7%83%98%E7%84%99%E5%9D%8A-%E9%BE%9C%E5%B1%B1%E6%96%87%E9%9D%92%E5%BA%97/@25.0394167,121.3901108,19.49z/data=!4m14!1m7!3m6!1s0x3442a70026dec88b:0xfd54553ccdd5ec0b!2z6bql5ZGz55m7IEE355qH57-U5bqX!8m2!3d25.0389811!4d121.3881104!16s%2Fg%2F11vs0_7tfc!3m5!1s0x3442a700148b3bd9:0x66acf30cf333e6e0!8m2!3d25.039287!4d121.390756!16s%2Fg%2F11vrfp3fdx?hl=zh-TW&entry=ttu"
         },
         {
+            "name": "文學先飲",
+            "id": "A7-090",
+            "type": "居酒屋",
+            "address": "桃園市龜山區文學路220號之2",
+            "telphone": "03-260-9989",
+            "hours": "週一～五: 09:00 - 17:00, 18:00 - 22:00, 週六: 17:00 - 22:30 週日公休",
+            "figure": "RES-A7-090.jpeg",
+            "figureLogo": "RES-A7-090L.jpeg",
+            "web": "https://mybzplus.tw/99h90ai2.html",
+            "ig": "https://www.instagram.com/_predrink_/?hl=cs&fbclid=IwAR0TYGifgnawryn1m6E_qipxq65X893HYaPDX_QOmi6jh9Cnw845PfcGvmo",
+            "category": "A7",
+            "category2": "5.合宜住宅區"
+        },
+        {
             "name": "華潮手創料理",
             "id": "A8-001",
             "type": "無菜單料理",
