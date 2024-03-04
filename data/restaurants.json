@@ -253,6 +253,7 @@
             "facebook": "https://www.facebook.com/After5andlaterA7",
             "uber": "https://www.ubereats.com/tw/store/after5-%E6%AD%A5%E9%A9%9F%E5%85%AD-%E9%BE%9C%E5%B1%B1%E5%BA%97/J7RcsC4gXDCNJjQwynqgcQ?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkphZGUlMjBEeW5hc3R5JTIyJTJDJTIycmVmZXJlbmNlJTIyJTNBJTIyZjgyZTA1YTItODE2NS0xMGU4LWQ3M2QtNDMwYzIyOWY5MjA4JTIyJTJDJTIycmVmZXJlbmNlVHlwZSUyMiUzQSUyMnViZXJfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0E0OS4yODA2MjMxJTJDJTIybG9uZ2l0dWRlJTIyJTNBLTEyMy4xMDA5NTQ5JTdE&utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
             "menu": "https://after5andlater.business.site/?fbclid=IwAR2pL0DxFVeX23f15ETbkHr5osY9fZD4RDNEe_HtNXFkZ9QQEJiasUzgDZw",
+            "suggestion": "https://www.walkerland.com.tw/article/view/382258",
             "category": "A7",
             "category2": "2.郵政物流區",
             "category3": "文達路",
@@ -2353,6 +2354,36 @@
             "google": "https://www.google.com/maps/place/%E8%BD%89%E9%9B%9E%E7%82%B8%E7%89%A9%E5%B0%88%E8%B3%A3%E5%BA%97%EF%BC%88%E9%BE%9C%E5%B1%B1%E5%BA%97%EF%BC%89/@25.0587538,121.3657878,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a71e5df3f143:0xb16e316b4904f591!8m2!3d25.0587538!4d121.3683627!16s%2Fg%2F11fmyk1drp?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
+            "name": "享享鍋物 林口長庚店",
+            "id": "A8-072",
+            "type": "火鍋燒烤",
+            "address": "333桃園市龜山區文化二路149號",
+            "telphone": "03-328-9001",
+            "hours": "11:00 - 22:30",
+            "figure": "RES-A8-072.jpeg",
+            "figureLogo": "RES-A8-072L.jpeg",
+            "facebook": "https://www.facebook.com/profile.php?id=100095625875244",
+            "uber": "https://www.ubereats.com/tw/store/%E4%BA%AB%E4%BA%AB%E9%8D%8B%E7%89%A9-%E6%9E%97%E5%8F%A3%E9%95%B7%E5%BA%9A%E5%BA%97/EiPpZgGKU9OhvTWPtm1JVQ?diningMode=PICKUP&utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "menu": "https://www.facebook.com/photo/?fbid=184401908090671&set=pb.100095625875244.-2207520000",
+            "suggestion": "https://www.facebook.com/groups/401936333733337/permalink/1433699193890374/",
+            "category": "A8",
+            "google": "https://www.google.com/maps/place/%E4%BA%AB%E4%BA%AB%E9%8D%8B%E7%89%A9+%E6%9E%97%E5%8F%A3%E9%95%B7%E5%BA%9A%E5%BA%97/@25.0533761,121.3682197,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a7a0c7f4185d:0x1c875e8a694512fd!8m2!3d25.0533761!4d121.3707946!16s%2Fg%2F11ks08c9vm?entry=ttu"
+        },
+        {
+            "name": "爭厚厚切牛排林口店",
+            "id": "A8-073",
+            "type": "西式餐廳",
+            "address": "桃園市龜山區文化一路26號",
+            "telphone": "03-397-8729",
+            "hours": "11:00 - 22:00",
+            "figure": "RES-A8-073.jpeg",
+            "figureLogo": "RES-A8-073L.jpeg",
+            "web": "https://thicklycut.com.tw/",
+            "menu": "https://thicklycut.com.tw/menu/",
+            "category": "A8",
+            "google": "https://www.google.com/maps/place/%E7%88%AD%E5%8E%9A%E5%8E%9A%E5%88%87%E7%89%9B%E6%8E%92%E6%9E%97%E5%8F%A3%E5%BA%97/@25.0578044,121.3704166,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a73c5f6baf91:0x6cc984a1886851f2!8m2!3d25.0578044!4d121.3729969!16s%2Fg%2F11dynbncl7?authuser=0&entry=ttu"
+        },
+        {
             "name": "海世界複合式碳烤店",
             "id": "A9-001",
             "type": "吃到飽",
@@ -2541,7 +2572,7 @@
         {
             "name": "AMBER HILL 教父牛排",
             "id": "A9-012",
-            "type": "火鍋燒烤",
+            "type": "西式餐廳",
             "address": "新北市林口區忠孝一路76號",
             "telphone": "02-2600-0318",
             "hours": "12:00 - 15:00, 18:00 - 22:00",
