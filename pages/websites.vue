@@ -40,10 +40,11 @@
             地方行政
             <ul class="ml-2 mb-4 w-28">
               <li>區域建設</li>
-              <li>居民期望</li>
-              <li>市府交流</li>
-              <li>議員交流</li>
+              <li>政府公告</li>
+              <li>公共事務</li>
+              <li>民意代表</li>
               <li>里長交流</li>
+              <li>社區營造</li>
             </ul>
           </NuxtLink>
         </li>
