@@ -60,15 +60,18 @@
             </ul>
           </NuxtLink>
         </li>
-        <li class="bg-zinc-100 m-2 p-2 shadow-md rounded-xl">
-          健康休閒
-          <ul class="ml-2 mb-4 w-28">
-            <li>步道資訊</li>
-            <li>旅行導遊</li>
-            <li>健身娛樂</li>
-            <li>影視分享</li>
-            <li>健康指引</li>
-          </ul>
+        <li class="bg-slate-200 m-2 p-2 shadow-md rounded-xl">
+          <NuxtLink to="https://a7kanban12.netlify.app/">
+            健康休閒
+            <ul class="ml-2 mb-4 w-28">
+              <li>登山步道</li>
+              <li>旅行導遊</li>
+              <li>健身娛樂</li>
+              <li>影視推薦</li>
+              <li>健康指引</li>
+              <li>地區醫療</li>
+            </ul>
+          </NuxtLink>
         </li>
         <li class="bg-slate-200 m-2 p-2 shadow-md rounded-xl">
           <NuxtLink to="https://a7kanban11.netlify.app/">
