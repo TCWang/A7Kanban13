@@ -90,6 +90,7 @@
             "category2": "A7",
             "category": "1.樂善國小",
             "score": "5.0 ",
+            "description": "<img src=\"https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/shop/SHO-S1-006-1.png\" class=\"max-w-sm\" />\r\n",
             "google": "https://www.google.com/maps/place/%E6%98%9F%E5%85%89%E5%81%A5%E8%BA%ABStarlight+Fitness/@25.0541148,121.3827259,20.59z/data=!4m14!1m7!3m6!1s0x3442a735c303d161:0x3ded57cee8e95b27!2z5oKg5o-a5YWr5bqm6Z-z5qiC5Lit5b-D5pyJ6ZmQ5YWs5Y-4!8m2!3d25.0551091!4d121.383723!16s%2Fg%2F11qrn7yb4r!3m5!1s0x3442a7b4735783a9:0xa3a717a2a708aa9a!8m2!3d25.053937!4d121.3828788!16s%2Fg%2F11kk9940ft?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
@@ -104,7 +105,7 @@
             "category2": "A7",
             "category": "1.樂善國小",
             "score": "5.0 ",
-            "description": "<img src=\"https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/shop/SHO-S1-004-1.png\" class=\"max-w-sm\" />",
+            "description": "<img src=\"https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/shop/SHO-S1-004-1.png\" class=\"max-w-sm\" />\r\n<img src=\"https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/shop/SHO-S1-007-2.png\" class=\"max-w-sm\" />",
             "google": "https://www.google.com/maps/place/%E5%93%88%E8%BF%AA+Hardy+-+%E9%81%8B%E5%8B%95%E5%B7%A5%E4%BD%9C%E5%AE%A4%E4%BA%8C%E5%BA%97/@25.0541148,121.3827259,20.59z/data=!4m14!1m7!3m6!1s0x3442a735c303d161:0x3ded57cee8e95b27!2z5oKg5o-a5YWr5bqm6Z-z5qiC5Lit5b-D5pyJ6ZmQ5YWs5Y-4!8m2!3d25.0551091!4d121.383723!16s%2Fg%2F11qrn7yb4r!3m5!1s0x3442a78895dccfc5:0x8546ba23c00c2592!8m2!3d25.0540588!4d121.3829794!16s%2Fg%2F11kq0lrj1p?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
@@ -527,6 +528,7 @@
             "category2": "A7",
             "category": "1.樂善國小",
             "score": "4.7 ",
+            "description": "<img src=\"https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/shop/SHO-S1-039-1.png\" class=\"max-w-sm\" />\r\n<img src=\"https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/shop/SHO-S1-039-2.png\" class=\"max-w-sm\" />\r\n<img src=\"https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/shop/SHO-S1-039-3.png\" class=\"max-w-sm\" />",
             "google": "https://www.google.com/maps/place/%E7%BF%BB%E8%BD%89%E9%AB%94%E8%83%BD+%E6%9E%AF%E6%9C%A8%E9%80%A2%E6%98%A5%E6%A1%83%E5%9C%92/@25.0549286,121.3844155,21z/data=!4m14!1m7!3m6!1s0x3442a7cbf3667b0f:0x7a14b59074c06479!2z6Iqv57696Jel5bGALem-nOWxseWEquizquiXpeWxgHzlsIjmpa3ol6XluKt85o6o6Jam6Jel5bGAfOS_neWBpeWTgeirruiponzmhaLmgKfomZXmlrnnrot85bCI5qWt6Kuu6Kmi6Jel5bir!8m2!3d25.055484!4d121.3844562!16s%2Fg%2F11y227fbkf!3m5!1s0x3442a7c06badacdb:0x6e8345391c0b89e6!8m2!3d25.0549078!4d121.3845325!16s%2Fg%2F11rr0ssj5r?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
@@ -590,6 +592,21 @@
             "category": "1.樂善國小",
             "description": "<img src=\"https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/shop/SHO-S1-043-1.jpg\" class=\"max-w-sm\" />",
             "google": "https://www.google.com/maps/place/%E9%8E%96%E7%BE%85%E9%96%80%E9%9B%BB%E5%AD%90%E9%8E%96+%E6%8C%87%E7%B4%8B%E9%8E%96+%E8%81%AF%E5%90%88%E9%AB%94%E9%A9%97%E9%A4%A8%E3%80%90%E6%A1%83%E5%9C%92%E9%BE%9C%E5%B1%B1%E9%96%80%E5%B8%82%E3%80%91/@25.0467179,121.2996459,13z/data=!4m10!1m2!2m1!1z6Y6W576F6ZaA6Zu75a2Q6Y6WIOaMh-e0i-mOliDoga_lkIjpq5TpqZfppKjjgJDmoYPlnJLpvpzlsbHploDluILjgJE!3m6!1s0x3442a7e1b93ac9c7:0xfdd39af7ca99f268!8m2!3d25.0554739!4d121.3835465!15sCkTpjpbnvoXploDpm7vlrZDpjpYg5oyH57SL6Y6WIOiBr-WQiOmrlOmpl-mkqOOAkOahg-Wckum-nOWxsemWgOW4guOAkZIBDmxvY2tzX3N1cHBsaWVy4AEA!16s%2Fg%2F11l2yrl99s?authuser=0&hl=zh-TW&entry=ttu"
+        },
+        {
+            "name": "管管音樂長慶工作室",
+            "id": "S1-044",
+            "type": "育",
+            "address": "桃園市龜山區長慶三街75號1樓",
+            "telphone": "0912-081-668",
+            "hours": "15:00 - 21:00 週六 09:00 - 18:00 週日公休",
+            "figure": "SHO-S1-044.png",
+            "figureLogo": "SHO-S1-044L.png",
+            "facebook": "https://www.facebook.com/guanguanmusic?mibextid=WC7FNe&rdid=AAPb9TxhOuCx8o3Z",
+            "email": "emma0912081668@gmail.com",
+            "category2": "A7",
+            "category": "1.樂善國小",
+            "google": "https://www.google.com/maps/place/%E7%AE%A1%E7%AE%A1%E9%9F%B3%E6%A8%82%E9%95%B7%E6%85%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4/@25.0554402,121.384045,21z/data=!4m14!1m7!3m6!1s0x3442a7cbf3667b0f:0x7a14b59074c06479!2z6Iqv57696Jel5bGALem-nOWxseWEquizquiXpeWxgHzlsIjmpa3ol6XluKt85o6o6Jam6Jel5bGAfOS_neWBpeWTgeirruiponzmhaLmgKfomZXmlrnnrot85bCI5qWt6Kuu6Kmi6Jel5bir!8m2!3d25.055484!4d121.3844562!16s%2Fg%2F11y227fbkf!3m5!1s0x3442a733b35ae401:0x3d71aa13c59c670a!8m2!3d25.055664!4d121.3841659!16s%2Fg%2F11ldrljvh0?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
             "name": "7ELEVEn 恆耀門市",
@@ -1138,6 +1155,20 @@
             "category": "4.文青國小",
             "score": "5.0 ",
             "google": "https://www.google.com/maps/place/global+art%E9%BE%9C%E5%B1%B1%E6%A8%82%E5%96%84/@25.0457874,121.3877473,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a7ade53c1c93:0x78f8e1d2396c321c!8m2!3d25.0457826!4d121.3926182!16s%2Fg%2F11y28yyh07?authuser=0&hl=zh-TW&entry=ttu"
+        },
+        {
+            "name": "崝藝術股份有限公司",
+            "id": "S4-012",
+            "type": "育",
+            "address": "桃園市龜山區文吉路28號",
+            "telphone": "03-397-4677",
+            "figure": "SHO-S4-012.png",
+            "figureLogo": "SHO-S4-012L.png",
+            "ig": "https://www.instagram.com/zheng.edu.art?igsh=a2ZsY204cmRndnRi&utm_source=qr",
+            "category2": "A7",
+            "category": "4.文青國小",
+            "description": "<img src=\"https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/shop/SHO-S4-012-1.png\" class=\"max-w-sm\" />\r\n<img src=\"https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/shop/SHO-S4-012-2.png\" class=\"max-w-sm\" />\r\n<img src=\"https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/shop/SHO-S4-012-3.png\" class=\"max-w-sm\" />",
+            "google": "https://www.google.com/maps/place/%E5%B4%9D%E8%97%9D%E8%A1%93%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/@25.0463574,121.3917494,20z/data=!4m6!3m5!1s0x3442a70016ea6b4d:0xfdfdee5d85332f7e!8m2!3d25.0463026!4d121.3918284!16s%2Fg%2F11vl_t_dmj?hl=zh-TW&entry=ttu"
         },
         {
             "name": "林居日鮮蔬果",
