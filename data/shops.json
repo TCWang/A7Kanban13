@@ -1011,6 +1011,19 @@
             "google": "https://www.google.com/maps/place/333%E6%A1%83%E5%9C%92%E5%B8%82%E9%BE%9C%E5%B1%B1%E5%8D%80%E8%8F%AF%E4%BA%9E%E4%B8%89%E8%B7%AF39%E5%B7%B722%E8%99%9F/@25.0488949,121.379,17z/data=!4m5!3m4!1s0x3442a714b94cffd7:0x6875da8207277dab!8m2!3d25.0488949!4d121.3815803?entry=ttu"
         },
         {
+            "name": "Ms.Fix 3C維修",
+            "id": "S3-026",
+            "type": "行",
+            "address": "桃園市龜山區樂善二路211號",
+            "telphone": "0970-150-801",
+            "hours": "11:00 - 20:00",
+            "figure": "SHO-S3-026.jpeg",
+            "figureLogo": "SHO-S3-026L.jpeg",
+            "category2": "A7",
+            "category": "3.中心商業",
+            "google": "https://www.google.com/maps/place/333%E6%A1%83%E5%9C%92%E5%B8%82%E9%BE%9C%E5%B1%B1%E5%8D%80%E6%A8%82%E5%96%84%E4%BA%8C%E8%B7%AF211%E8%99%9F/@25.0464828,121.3847903,17z/data=!3m1!4b1!4m5!3m4!1s0x3442a76cc42c6eab:0x90e9d7f74428623c!8m2!3d25.0464828!4d121.3847903?hl=zh-TW&entry=ttu"
+        },
+        {
             "name": "小鳥吃吐司 龜山文青店",
             "id": "S4-001",
             "type": "食",
