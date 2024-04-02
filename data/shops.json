@@ -2360,10 +2360,12 @@
             "id": "S5-081",
             "type": "育",
             "address": "桃園市龜山區文學路229號",
+            "telphone": "03-497-9680, 0963-068-847",
             "figure": "SHO-S5-081.jpeg",
             "figureLogo": "SHO-S5-081L.jpeg",
             "category2": "A7",
-            "category": "5.體育大學"
+            "category": "5.體育大學",
+            "description": "<img src=\"https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/shop/SHO-S5-081-1.png\" class=\"max-w-sm\" />"
         },
         {
             "name": "小倉鼠健身坊",
