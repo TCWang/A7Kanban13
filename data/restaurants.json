@@ -1,4 +1,5 @@
-﻿[
+﻿{
+ [
         {
             "name": "ABBA 鴨吧鴨肉飯",
             "id": "A7-001",
@@ -4068,6 +4069,7 @@
             "figure": "RES-A9-093.jpeg",
             "figureLogo": "RES-A9-093L.jpeg",
             "web": "https://www.snail-italy.com/",
+            "menu": "https://www.snail-italy.com/linkou.html",
             "category": "A9",
             "score": "4.7",
             "google": "https://www.google.com.tw/maps/place/Snail%E8%9D%B8%E7%89%9B%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%A4%90%E5%BB%B3+%E6%9E%97%E5%8F%A3%E6%98%95%E5%A2%83%E5%BA%97/@25.0736598,121.3689044,15z/data=!4m6!3m5!1s0x3442a748652f1aa7:0xbe48831b2fa6aba5!8m2!3d25.0736598!4d121.3689044!16s%2Fg%2F11tf0w46r1?hl=zh-TW&entry=ttu"
@@ -4259,6 +4261,9 @@
             "figure": "RES-A9-105.jpeg",
             "figureLogo": "RES-A9-105L.jpeg",
             "web": "https://linktr.ee/pastaiotaipei?lt_utm_source=lt_share_link#358881131",
+            "facebook": "https://www.facebook.com/PASTAIOTAIPEI",
+            "email": "pastaiotaipei@gmail.com",
+            "menu": "https://www.facebook.com/photo/?fbid=921896066608280&set=pb.100063636862595.-2207520000",
             "suggestion": "https://news.tvbs.com.tw/travel/2445624?fbclid=IwAR2Z3vqF4lh4s2iKi7geHYn-9YkM_tmsqEmv3B79ic913ehRgKrl1kIBRog_aem_AaBjmOcDOkX1iMK4JRXMnDuVWwAuSUwJhBmy_2U9dJkIZYYcg7MiRooLl1AmbVl01vd_Kx2wmu2vRXfajls0M3MR",
             "category": "A9",
             "google": "https://www.google.com/maps/place/Pastaio+%E6%89%8B%E5%B7%A5%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5+%E6%9E%97%E5%8F%A3%E5%BA%97/@25.0728254,121.3635626,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a771b164028f:0x956448d2ec49104a!8m2!3d25.0728206!4d121.3661375!16s%2Fg%2F11lczy87kb?authuser=0&hl=zh-TW&entry=ttu"
