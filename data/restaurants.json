@@ -2515,6 +2515,23 @@
             "google": "https://www.google.com/maps/place/%E4%BA%8C%E5%A0%82%E9%A0%AD%E9%8A%B7%E9%AD%82%E9%B4%A8%E8%82%89%E9%A3%AF(%E6%9E%97%E5%8F%A3%E9%95%B7%E5%BA%9A%E5%BA%97)/@25.0582076,121.3675218,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a745e2c27a27:0xb0423f5ccf9a1703!8m2!3d25.0582028!4d121.3701021!16s%2Fg%2F11sk7nrgj2?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
+            "name": "麵屋濃",
+            "id": "A8-083",
+            "type": "日本料理",
+            "address": "桃園市龜山區文化一路10巷42弄47號",
+            "telphone": "03-396-1360",
+            "hours": "11:30 - 14:00, 17:30 - 21:00",
+            "figure": "RES-A8-083.jpeg",
+            "figureLogo": "RES-A8-083L.jpeg",
+            "facebook": "https://www.facebook.com/nontakutaiwan003/",
+            "email": "nontakutaiwan@gmail.com",
+            "uber": "https://www.ubereats.com/tw/store/%E9%BA%B5%E5%B1%8B%E6%BF%83-%E6%9E%97%E5%8F%A3%E9%95%B7%E5%BA%9A%E5%BA%97/tIjGcY0bR6CukA5veXPsmQ?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "panda": "https://www.foodpanda.com.tw/restaurant/e8ai/mian-wu-nong-lin-kou-chang-geng-dian?utm_source=google&utm_medium=organic&utm_campaign=google_reserve_place_order_action",
+            "suggestion": "https://www.dalang.tw/nontakutaiwan/",
+            "category": "A8",
+            "google": "https://www.google.com/maps/place/%E9%BA%B5%E5%B1%8B%E3%80%82%E6%BF%83(%E6%9E%97%E5%8F%A3%E9%95%B7%E5%BA%9A%E5%BA%97)/@25.0588376,121.3693655,18z/data=!4m6!3m5!1s0x3442a73b0b4fa2f9:0x2e62ecbb1bb16d!8m2!3d25.0590887!4d121.3699559!16s%2Fg%2F11fzjct1mg?hl=zh-TW&entry=ttu"
+        },
+        {
             "name": "海世界複合式碳烤店",
             "id": "A9-001",
             "type": "吃到飽",
