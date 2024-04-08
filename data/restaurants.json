@@ -68,24 +68,6 @@
             "google": "https://www.google.com.tw/maps/place/%E4%BE%BF%E7%95%B6%E8%A3%BD%E9%80%A0%E6%89%80/@25.0543673,121.3814909,17z/data=!3m1!4b1!4m5!3m4!1s0x3442a707df663089:0x67f11136d812d17d!8m2!3d25.0543625!4d121.3836796?hl=zh-TW&authuser=0"
         },
         {
-            "name": "茗記便當",
-            "id": "A7-008",
-            "type": "中式料理",
-            "address": "桃園市龜山區長庚里長慶二街75號1樓",
-            "telphone": "0926-654-728",
-            "hours": "週一～週五: 09:00 - 19:00, 週日公休",
-            "figure": "RES-A7-008.jpeg",
-            "figureLogo": "RES-A7-008.jpeg",
-            "facebook": "https://www.facebook.com/profile.php?id=100083961894400&mibextid=LQQJ4d",
-            "uber": "https://www.ubereats.com/tw/store/%E8%8C%97%E8%A8%98%E4%BE%BF%E7%95%B6/ETV7rVBeWTuLT2hM5jYuZQ?diningMode=DELIVERY&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkphZGUlMjBEeW5hc3R5JTIyJTJDJTIycmVmZXJlbmNlJTIyJTNBJTIyZjgyZTA1YTItODE2NS0xMGU4LWQ3M2QtNDMwYzIyOWY5MjA4JTIyJTJDJTIycmVmZXJlbmNlVHlwZSUyMiUzQSUyMnViZXJfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0E0OS4yODA2MjMxJTJDJTIybG9uZ2l0dWRlJTIyJTNBLTEyMy4xMDA5NTQ5JTdE&utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
-            "menu": "https://www.google.com/maps/place/%E8%8C%97%E8%A8%98%E4%BE%BF%E7%95%B6/@25.054508,121.3838508,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipP0qxmNemPkAfn0tEx2V-rYF-qUQ_RVC-vg5j4Q!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP0qxmNemPkAfn0tEx2V-rYF-qUQ_RVC-vg5j4Q%3Dw421-h298-k-no!7i3508!8i2480!4m9!3m8!1s0x3442a7c431e4d36b:0xc67b16fc5ef13b0a!8m2!3d25.054508!4d121.3838508!10e5!14m1!1BCgIYIQ!16s%2Fg%2F11t7j7p2rw?entry=ttu",
-            "category": "A7",
-            "category2": "1.樂善國小區",
-            "category3": "長慶二街",
-            "score": "4.8",
-            "google": "https://www.google.com/maps/place/%E8%8C%97%E8%A8%98%E4%BE%BF%E7%95%B6/@25.0544119,121.3834713,20.84z/data=!4m6!3m5!1s0x3442a7c431e4d36b:0xc67b16fc5ef13b0a!8m2!3d25.054508!4d121.3838508!16s%2Fg%2F11t7j7p2rw?authuser=0&entry=ttu"
-        },
-        {
             "name": "撲克 專業麵線",
             "id": "A7-009",
             "type": "麵食餐館",
@@ -808,6 +790,7 @@
             "facebook": "https://www.facebook.com/profile.php?id=61550957434407&mibextid=ZbWKwL",
             "ig": "https://www.instagram.com/sufuxuan_bbq/?igshid=OGQ5ZDc2ODk2ZA%3D%3D&fbclid=IwAR00AoMZjt8y-l73tGccLWZ-W8v4V-7Zl4p7ARQow-YV61Pcpr7Un8iwS7U",
             "menu": "https://www.facebook.com/photo/?fbid=122123085836031914&set=a.122111322464031914",
+            "suggestion": "https://www.instagram.com/reel/C5I2ZdWvPbI/?utm_source=ig_web_copy_link",
             "category": "A7",
             "category2": "1.樂善國小區",
             "category3": "長慶三街",
