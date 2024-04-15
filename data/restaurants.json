@@ -4285,6 +4285,21 @@
             "google": "https://www.google.com/maps/place/SUSHIRO/@25.0751926,121.3679127,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a7a3a7a45273:0xdf949af5b57de872!8m2!3d25.0751926!4d121.3704876!16s%2Fg%2F11y1z_39ts?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
+            "name": "日福 OH HAPPY DAY ",
+            "id": "A9-107",
+            "type": "點心冰品",
+            "address": "新北市林口區文化二路二段46號",
+            "telphone": "02-2603-8182",
+            "hours": "11:00 - 20:00",
+            "figure": "RES-A9-107.jpeg",
+            "figureLogo": "RES-A9-107L.jpeg",
+            "web": "https://www.ohhappydaynow.com/",
+            "facebook": "https://www.facebook.com/ohhappydaynow",
+            "suggestion": "https://upssmile.com/215700/oh-happy-day-linkou",
+            "category": "A9",
+            "google": "https://www.google.com/maps/place/%E6%97%A5%E7%A6%8F+OH+HAPPY+DAY+%E6%9E%97%E5%8F%A3%E5%BA%97/@25.0789386,121.3763809,17z/data=!4m6!3m5!1s0x3442a7000d124d5f:0x22b75a68574b098e!8m2!3d25.0797319!4d121.377629!16s%2Fg%2F11vt1rvtdf?authuser=0&hl=zh-TW&entry=ttu"
+        },
+        {
             "name": "饗饗 新莊店",
             "id": "NT-001",
             "type": "吃到飽",
