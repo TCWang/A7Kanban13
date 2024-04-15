@@ -3643,7 +3643,7 @@
         {
             "name": "PAUL 保羅麵包法式烘焙Café 三井店",
             "id": "A9-069",
-            "type": "點心冰品",
+            "type": "麵包蛋糕",
             "address": "新北市林口區文化三路一段356號2F",
             "telphone": "02-2600-3323",
             "hours": "週日至週五11:00~21:00 週六10:30~22:00",
@@ -4027,21 +4027,6 @@
             "category": "A9",
             "score": "3.7",
             "google": "https://www.google.com/maps/place/%E8%80%81%E5%A3%AB%E6%9E%97+%E7%83%A4%E8%82%89%E9%A3%AF+%E6%9E%97%E5%8F%A3%E5%BA%97/@25.0723029,121.3696209,15z/data=!4m6!3m5!1s0x3442a799034beeed:0x452ae423abe419b1!8m2!3d25.0723029!4d121.3696209!16s%2Fg%2F11fd0kht3b?hl=zh-TW&entry=ttu"
-        },
-        {
-            "name": "喜咧 SiRe 冰菓舖",
-            "id": "A9-091",
-            "type": "點心冰品",
-            "address": "新北市林口區文化一路一段186-2號",
-            "hours": "12:00 - 20:30",
-            "figure": "RES-A9-091.jpeg",
-            "figureLogo": "RES-A9-091L.jpeg",
-            "facebook": "https://www.facebook.com/profile.php?id=100091526901315&mibextid=LQQJ4d",
-            "ig": "https://www.instagram.com/sireiceshop?fbclid=IwAR1od2gqhk9YZR5Xt9cH3ipoQjrfjpkg9mtTi-BLgvXZeoIsyxgo_Jfxuqw",
-            "menu": "https://www.facebook.com/permalink.php?story_fbid=pfbid025ff4vssnVE5bWLWUZyzXemv7DYan7maWQTf9AbYo35t7ixHQuQhuYsG6MvS8petMl&id=100091526901315",
-            "category": "A9",
-            "score": "4.8",
-            "google": "https://www.google.com/maps/place/%E5%96%9C%E5%92%A7+SiRe+%E5%86%B0%E8%8F%93%E8%88%96/@25.0768395,121.3756433,14.28z/data=!4m6!3m5!1s0x3442a7316ab548c7:0x8777d4a365842db0!8m2!3d25.0748521!4d121.378379!16s%2Fg%2F11t_hw2_x7?hl=zh-TW&entry=ttu"
         },
         {
             "name": "我家牛排 林口A9店",
