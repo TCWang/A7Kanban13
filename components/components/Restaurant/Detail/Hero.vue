@@ -1,6 +1,6 @@
 <template>
   <div class="mt-2 flex flex-col md:flex-row">
-    <NuxtImg
+    <img
       :src="`/images/restaurant/${restaurant.figure}`"
       class="w-full md:w-1/2 md:px-4"
       alt=""
