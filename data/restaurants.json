@@ -1239,6 +1239,21 @@
             "google": "https://www.google.com/maps/place/%E6%A5%B5%E7%A6%BE%E5%84%AA%E8%B3%AA%E9%8D%8B%E7%89%A9-%E9%BE%9C%E5%B1%B1%E6%96%87%E9%9D%92%E5%BA%97/@25.0386469,121.3882745,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a7f265847fd7:0xc577675537863c2b!8m2!3d25.0386421!4d121.3908548!16s%2Fg%2F11ldvmfz6s?entry=ttu"
         },
         {
+            "name": "Mr.細鯊糖 • Mr.Shark 雪花冰菓室",
+            "id": "A7-092",
+            "type": "點心冰品",
+            "address": "桃園市龜山區長慶二街3號1樓",
+            "telphone": "0958-316-833",
+            "hours": "10:00 - 21:00",
+            "figure": "RES-A7-092.jpeg",
+            "figureLogo": "RES-A7-092L.jpeg",
+            "facebook": "https://www.facebook.com/mrsharkid/",
+            "menu": "https://www.google.com/maps/place/Mr.%E7%B4%B0%E9%AF%8A%E7%B3%96+%E2%80%A2+Mr.Shark+%E9%9B%AA%E8%8A%B1%E5%86%B0%E8%8F%93%E5%AE%A4/@0,0,3a,75y/data=!3m8!1e2!3m6!1sAF1QipPAE41VBl8guoY-NP-WTAzVzZRPrlem95tNwbL5!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPAE41VBl8guoY-NP-WTAzVzZRPrlem95tNwbL5%3Dw203-h288-k-no!7i1074!8i1525!4m7!3m6!1s0x3442a7536d5dc1d1:0xa6b5038074e4c22a!8m2!3d25.053901!4d121.3829038!10e5!16s%2Fg%2F11y41dc4v9?hl=zh-TW&entry=ttu",
+            "category": "A7",
+            "category2": "1.樂善國小區",
+            "google": "https://www.google.com/maps/place/Mr.%E7%B4%B0%E9%AF%8A%E7%B3%96+%E2%80%A2+Mr.Shark+%E9%9B%AA%E8%8A%B1%E5%86%B0%E8%8F%93%E5%AE%A4/@25.053901,121.3803289,17z/data=!4m6!3m5!1s0x3442a7536d5dc1d1:0xa6b5038074e4c22a!8m2!3d25.053901!4d121.3829038!16s%2Fg%2F11y41dc4v9?entry=ttu"
+        },
+        {
             "name": "華潮手創料理",
             "id": "A8-001",
             "type": "無菜單料理",

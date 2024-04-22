@@ -1,15 +1,15 @@
 <template>
   <div class="mt-2 flex flex-col md:flex-row">
-    <img
+    <!-- <img
       :src="`/images/restaurant/${restaurant.figure}`"
       class="w-full md:w-1/2 md:px-4"
       alt=""
-    />
-    <!-- <NuxtImg
+    /> -->
+    <NuxtImg
       :src="`https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/restaurant/${restaurant.figure}`"
       class="w-full md:w-1/2 md:px-4"
       alt=""
-    /> -->
+    />
     <div class="w-full md:w-1/2">
       <h1 class="mt-1">
         {{ restaurant.id }} {{ restaurant.type }} - {{ restaurant.name }}
