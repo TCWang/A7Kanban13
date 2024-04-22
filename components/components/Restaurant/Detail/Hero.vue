@@ -1,7 +1,7 @@
 <template>
   <div class="mt-2 flex flex-col md:flex-row">
     <img
-      :src="`/images/restaurant/${restaurant.figure}`"
+      :src="`../images/restaurant/${restaurant.figure}`"
       class="w-full md:w-1/2 md:px-4"
       alt=""
     />
