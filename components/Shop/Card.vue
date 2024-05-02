@@ -12,7 +12,7 @@
     <div
       class="m-2 flex flex-row md:flex-row h-full bg-zinc-100 rounded-2xl shadow-md"
     >
-      <NuxtImg
+      <img
         :src="`/images/shopping/${shop.figureLogo}`"
         alt=""
         class="w-[150px] md:w-[200px] h-[150px] md:h-[200px] rounded-xl transform hover:scale-110 duration-200"
