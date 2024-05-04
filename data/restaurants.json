@@ -1255,6 +1255,21 @@
             "google": "https://www.google.com/maps/place/Mr.%E7%B4%B0%E9%AF%8A%E7%B3%96+%E2%80%A2+Mr.Shark+%E9%9B%AA%E8%8A%B1%E5%86%B0%E8%8F%93%E5%AE%A4/@25.053901,121.3803289,17z/data=!4m6!3m5!1s0x3442a7536d5dc1d1:0xa6b5038074e4c22a!8m2!3d25.053901!4d121.3829038!16s%2Fg%2F11y41dc4v9?entry=ttu"
         },
         {
+            "name": "梅森沙拉健康餐盒",
+            "id": "A7-093",
+            "type": "中式料理",
+            "address": "桃園市龜山區華亞三路39巷78號1樓",
+            "telphone": "0981-200-342",
+            "hours": "10:30 - 14:00, 17:00 - 20:00",
+            "figure": "RES-A7-093.jpeg",
+            "figureLogo": "RES-A7-093L.jpeg",
+            "menu": "https://www.google.com/maps/place/%E6%A2%85%E6%A3%AE%E6%B2%99%E6%8B%89-%E5%81%A5%E5%BA%B7%E9%A4%90%E7%9B%92/@25.0481404,121.3825982,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOkClgAnjhiAvvcOmEnprXGmhIoHct26fSLbtNi!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOkClgAnjhiAvvcOmEnprXGmhIoHct26fSLbtNi%3Dw224-h298-k-no!7i3024!8i4032!4m9!3m8!1s0x3442a756d8f1404b:0x8328288865a4b4e7!8m2!3d25.0481404!4d121.3825982!10e5!14m1!1BCgIYIQ!16s%2Fg%2F11y4474bdg?hl=zh-TW&entry=ttu",
+            "category": "A7",
+            "category2": "3.中心商業區",
+            "description": "<p>\r\n梅森-沙拉/健康餐盒 餐廳新開張，試營運中~~\r\n <br>\r\n主打：原型、低脂、低GI。特點為「自選配料」的沙拉/健康餐盒，讓顧客選擇自己想吃的蔬菜與配料。\r\n以水煮為主的料理方式，添加些許調味或搭配自選醬汁食用。\r\n</p>\r\n<img src=\"/images/restaurant/RES-A7-093-1.jpeg\" class=\"max-w-md\" />\r\n",
+            "google": "https://www.google.com/maps/place/%E6%A2%85%E6%A3%AE%E6%B2%99%E6%8B%89-%E5%81%A5%E5%BA%B7%E9%A4%90%E7%9B%92/@25.0484008,121.3827549,17z/data=!4m6!3m5!1s0x3442a756d8f1404b:0x8328288865a4b4e7!8m2!3d25.0481404!4d121.3825982!16s%2Fg%2F11y4474bdg?hl=zh-TW&entry=ttu"
+        },
+        {
             "name": "華潮手創料理",
             "id": "A8-001",
             "type": "無菜單料理",
