@@ -1271,6 +1271,21 @@
             "google": "https://www.google.com/maps/place/%E6%A2%85%E6%A3%AE%E6%B2%99%E6%8B%89-%E5%81%A5%E5%BA%B7%E9%A4%90%E7%9B%92/@25.0484008,121.3827549,17z/data=!4m6!3m5!1s0x3442a756d8f1404b:0x8328288865a4b4e7!8m2!3d25.0481404!4d121.3825982!16s%2Fg%2F11y4474bdg?hl=zh-TW&entry=ttu"
         },
         {
+            "name": "Quarter mile居酒屋樂善店",
+            "id": "A7-094",
+            "type": "居酒屋",
+            "address": "桃園市龜山區長慶二街75號",
+            "telphone": "03-328-1116",
+            "hours": "17:00 - 02:00",
+            "figure": "RES-A7-094.jpeg",
+            "figureLogo": "RES-A7-094L.jpeg",
+            "menu": "https://www.google.com/maps/place/Quarter+mile%E5%B1%85%E9%85%92%E5%B1%8B%E6%A8%82%E5%96%84%E5%BA%97/@25.0544616,121.3838464,3a,53.3y/data=!3m8!1e2!3m6!1sAF1QipObddV_3n736UbjqQjo_Yg-HNEb_OBAtVblfTVo!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipObddV_3n736UbjqQjo_Yg-HNEb_OBAtVblfTVo%3Dw203-h143-k-no!7i2481!8i1755!4m9!3m8!1s0x3442a7003a0c4f3f:0xf9242049e61bcedf!8m2!3d25.0544616!4d121.3838065!10e5!14m1!1BCgIgAQ!16s%2Fg%2F11vzy90z3_?authuser=0&hl=zh-TW&entry=ttu",
+            "category": "A7",
+            "category2": "1.樂善國小區",
+            "description": "<img src=\"/images/restaurant/RES-A7-094-1.png\" class=\"max-w-md\" />",
+            "google": "https://www.google.com/maps/place/Quarter+mile%E5%B1%85%E9%85%92%E5%B1%8B%E6%A8%82%E5%96%84%E5%BA%97/@25.0544616,121.3838065,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a7003a0c4f3f:0xf9242049e61bcedf!8m2!3d25.0544616!4d121.3838065!16s%2Fg%2F11vzy90z3_?authuser=0&hl=zh-TW&entry=ttu"
+        },
+        {
             "name": "華潮手創料理",
             "id": "A8-001",
             "type": "無菜單料理",
@@ -2343,7 +2358,7 @@
             "name": "炙り庵steak牛排 龜山長庚店",
             "id": "A8-069",
             "type": "西式餐廳",
-            "address": "1樓 No, No. 13號文化二路龜山區桃園市333",
+            "address": "桃園市龜山區文化二路34巷6號",
             "telphone": "03-318-6717",
             "hours": "11:00 - 22:00",
             "figure": "RES-A8-069.jpeg",
