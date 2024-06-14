@@ -1288,6 +1288,22 @@
             "google": "https://www.google.com/maps/place/Quarter+mile%E5%B1%85%E9%85%92%E5%B1%8B%E6%A8%82%E5%96%84%E5%BA%97/@25.0544616,121.3838065,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a7003a0c4f3f:0xf9242049e61bcedf!8m2!3d25.0544616!4d121.3838065!16s%2Fg%2F11vzy90z3_?authuser=0&hl=zh-TW&entry=ttu"
         },
         {
+            "name": "金家廚房",
+            "id": "A7-095",
+            "type": "中式料理",
+            "address": "桃園市龜山區文吉路129號",
+            "telphone": "0966-550-482",
+            "hours": "13:30 - 21:00",
+            "figure": "RES-A7-095.jpeg",
+            "figureLogo": "RES-A7-095L.jpeg",
+            "panda": "https://www.foodpanda.com.tw/restaurant/i1qr/jin-jia-chu-fang?utm_source=google&utm_medium=organic&utm_campaign=google_reserve_place_order_action",
+            "menu": "https://www.google.com/maps/place/%E9%87%91%E5%AE%B6%E5%BB%9A%E6%88%BF/@25.0451845,121.3927692,3a,75y/data=!3m8!1e2!3m6!1sAF1QipMCKEh-0D4jIfdddv0BtClKM3AvCGKiF-GlifbD!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMCKEh-0D4jIfdddv0BtClKM3AvCGKiF-GlifbD%3Dw203-h286-k-no!7i580!8i818!4m9!3m8!1s0x3442a7bf05cd3375:0x55c0f3615bbc164b!8m2!3d25.0453061!4d121.3927619!10e5!14m1!1BCgIgAQ!16s%2Fg%2F11vzy1qq_z?authuser=0&hl=zh-TW&entry=ttu",
+            "category": "A7",
+            "category2": "4.文青國小區",
+            "description": "<img src=\"/images/restaurant/RES-A7-095-1.png\" class=\"max-w-md\" />",
+            "google": "https://www.google.com/maps/place/%E9%87%91%E5%AE%B6%E5%BB%9A%E6%88%BF/@25.0453109,121.3901816,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a7bf05cd3375:0x55c0f3615bbc164b!8m2!3d25.0453061!4d121.3927619!16s%2Fg%2F11vzy1qq_z?authuser=0&entry=ttu"
+        },
+        {
             "name": "華潮手創料理",
             "id": "A8-001",
             "type": "無菜單料理",
