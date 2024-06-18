@@ -1,0 +1,1 @@
+import{_ as t}from"./NavBar.hXf-ppRU.js";import{_ as a,c as n,b as c,am as s,o as r}from"./entry.nS8XKXKJ.js";const _={},m={class:"container mx-auto p-4"};function d(e,f){const o=t;return r(),n("div",m,[c(o),s(e.$slots,"default")])}const i=a(_,[["render",d]]);export{i as default};
