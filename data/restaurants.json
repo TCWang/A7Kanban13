@@ -1318,6 +1318,32 @@
             "description": "<p>\r\n位在桃園龜山與林口的交界, 結合日式木質調的風格😃,\r\n窗邊不時有陽光引入室內 🌞\r\n@yunmu_cafe\r\n提供手沖與義式咖啡、牛奶、輕食甜點\r\n<ul>\r\n<li>熱拿鐵 $140</li>\r\n<li>西西里檸檬 $160</li>\r\n<li>可可牛奶 $160</li>\r\n<li>巴斯克$140</li>\r\n<li>提拉米蘇 $160</li>\r\n<li>達克瓦茲 $65</li>\r\n<li>可麗露 $75</li>\r\n</ul>\r\n低消每人一杯飲品\r\n</p>"
         },
         {
+            "name": "99%文達龜山區美食餐車",
+            "id": "A7-097",
+            "type": "行動餐車",
+            "address": "桃園市龜山區文達路280號",
+            "hours": "16:00 - 20:00",
+            "figure": "RES-A7-097.jpeg",
+            "figureLogo": "RES-A7-097L.jpeg",
+            "line": "https://line.me/ti/g2/ml6Cmffk3P9ygNG5hluxZA04paFdN9HnSgrldQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default",
+            "category": "A7",
+            "category2": "2.郵政物流區",
+            "google": "https://www.google.com/maps/place/%E7%9A%87%E6%99%AEMVP/@25.0514156,121.3850819,18.26z/data=!4m15!1m8!3m7!1s0x3442a7124b6fdfed:0x9ede1265f189b703!2sNo.+97%E8%99%9F,+Yuexue+Rd,+Guishan+District,+Taoyuan+City,+333!3b1!8m2!3d25.0507435!4d121.3856443!16s%2Fg%2F11vx7hd5ch!3m5!1s0x3442a7aac25dd01d:0x19aeb380975ab3f2!8m2!3d25.0505912!4d121.3854151!16s%2Fg%2F11sq9zhkd4?entry=ttu"
+        },
+        {
+            "name": "JJ PARK 美食廣場",
+            "id": "A7-098",
+            "type": "行動餐車",
+            "address": "桃園市龜山區文青二路",
+            "hours": "週六日: 16:00 - 20:00",
+            "figure": "RES-A7-098.jpeg",
+            "figureLogo": "RES-A7-098L.jpeg",
+            "line": "https://line.me/ti/g2/5FkryIGrN3tmHyFcjw3jV4NJB7AryGvMlRZong?utm_source=invitation&utm_medium=link_copy&utm_campaign=default",
+            "category": "A7",
+            "category2": "5.合宜住宅區",
+            "google": "https://www.google.com/maps/place/333%E6%A1%83%E5%9C%92%E5%B8%82%E9%BE%9C%E5%B1%B1%E5%8D%80%E6%96%87%E9%9D%92%E4%BA%8C%E8%B7%AF/@25.0387943,121.388408,19.4z/data=!4m15!1m8!3m7!1s0x3442a7124b6fdfed:0x9ede1265f189b703!2zMzMz5qGD5ZyS5biC6b6c5bGx5Y2A5qiC5a246LevOTfomZ8!3b1!8m2!3d25.0507435!4d121.3856443!16s%2Fg%2F11vx7hd5ch!3m5!1s0x3442a771cc3f0bed:0x795b5c6c2e720ed!8m2!3d25.0385078!4d121.3894273!16s%2Fg%2F11k558k_ln?hl=zh-TW&entry=ttu"
+        },
+        {
             "name": "華潮手創料理",
             "id": "A8-001",
             "type": "無菜單料理",
