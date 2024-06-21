@@ -47,7 +47,7 @@ import restaurants from "@/data/restaurants.json";
 // };
 
 const restaurantsOrganized = {
-  filtered: [...restaurants]
+  filtered: [...restaurants.restaurant]
     .filter((restaurant) => {
       if (route.params.type === "" || route.params.type === "所有餐廳") {
         return restaurant.category === route.params.city;

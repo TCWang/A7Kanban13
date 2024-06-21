@@ -16,7 +16,7 @@ const route = useRoute();
 const { capitalizeFirstLetter } = useUtilities();
 
 const restaurant = computed(() => {
-  return restaurants.find((restaurant) => {
+  return restaurants.restaurant.find((restaurant) => {
     return restaurant.id === route.params.id;
     // return restaurant.id === parseInt(route.params.id);
   });
