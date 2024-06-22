@@ -1346,6 +1346,23 @@
             "google": "https://www.google.com/maps/place/333%E6%A1%83%E5%9C%92%E5%B8%82%E9%BE%9C%E5%B1%B1%E5%8D%80%E6%96%87%E9%9D%92%E4%BA%8C%E8%B7%AF/@25.0387943,121.388408,19.4z/data=!4m15!1m8!3m7!1s0x3442a7124b6fdfed:0x9ede1265f189b703!2zMzMz5qGD5ZyS5biC6b6c5bGx5Y2A5qiC5a246LevOTfomZ8!3b1!8m2!3d25.0507435!4d121.3856443!16s%2Fg%2F11vx7hd5ch!3m5!1s0x3442a771cc3f0bed:0x795b5c6c2e720ed!8m2!3d25.0385078!4d121.3894273!16s%2Fg%2F11k558k_ln?hl=zh-TW&entry=ttu"
         },
         {
+            "name": "萊嗑亭涼麵",
+            "id": "A7-099",
+            "type": "麵食餐館",
+            "address": "桃園市龜山區文青二路89號",
+            "telphone": "0938-080-212",
+            "hours": "08:00 - 20:00",
+            "figure": "RES-A7-099.jpeg",
+            "figureLogo": "RES-A7-099L.jpeg",
+            "line": "https://line.me/R/ti/p/@735tedmo?from=page&searchId=735tedmo",
+            "uber": "https://www.ubereats.com/tw/store/%E8%90%8A%E5%97%91%E4%BA%AD%E6%B6%BC%E9%BA%B5%E5%BA%97/efGgnN-MXd6I_Q5VRZun8g?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "menu": "https://www.google.com/maps/place/%E8%90%8A%E5%97%91%E4%BA%AD%E6%B6%BC%E9%BA%B5/@25.038749,121.3904561,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPkx17d9CBb-MDeGwaNWl9STdOET726jTDq-CPx!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPkx17d9CBb-MDeGwaNWl9STdOET726jTDq-CPx%3Dw224-h316-k-no!7i1414!8i2000!4m20!1m10!3m9!1s0x3442a702c9de9b31:0x8d5106c65ee4e2ee!2z6JCK5ZeR5Lqt5ra86bq1!8m2!3d25.038749!4d121.3904561!10e5!14m1!1BCgIgAQ!16s%2Fg%2F11vxxbt795!3m8!1s0x3442a702c9de9b31:0x8d5106c65ee4e2ee!8m2!3d25.038749!4d121.3904561!10e5!14m1!1BCgIgARICGAI!16s%2Fg%2F11vxxbt795?hl=zh-TW&entry=ttu",
+            "category": "A7",
+            "category2": "5.合宜住宅區",
+            "description": "<img src=\"/images/restaurant/RES-A7-099-1.png\" class=\"max-w-md\" />",
+            "google": "https://www.google.com/maps/place/%E8%90%8A%E5%97%91%E4%BA%AD%E6%B6%BC%E9%BA%B5/@25.0386352,121.3902457,20z/data=!4m6!3m5!1s0x3442a702c9de9b31:0x8d5106c65ee4e2ee!8m2!3d25.038749!4d121.3904561!16s%2Fg%2F11vxxbt795?hl=zh-TW&entry=ttu"
+        },
+        {
             "name": "華潮手創料理",
             "id": "A8-001",
             "type": "無菜單料理",
@@ -2218,7 +2235,7 @@
             "figure": "RES-A8-056.jpeg",
             "figureLogo": "RES-A8-056L.jpeg",
             "web": "https://www.tasty.com.tw/shop/content.php?store=38",
-            "suggestion": "https://udn.com/news/story/7266/7528229",
+            "suggestion": "https://eraser2407.pixnet.net/blog/post/153628570?fbclid=IwZXh0bgNhZW0CMTEAAR26kJ_SVHfP85X0jqff6Sulxem_TmqHS9bI5lxW9EzG2oVMpHDZkAbC5qM_aem_mSZFsF8eVxyjxrWbZWvW_Q",
             "category": "A8",
             "category2": "4.家庭聚餐",
             "score": "3.3",
