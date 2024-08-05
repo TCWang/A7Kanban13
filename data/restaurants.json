@@ -1363,6 +1363,20 @@
             "google": "https://www.google.com/maps/place/%E8%90%8A%E5%97%91%E4%BA%AD%E6%B6%BC%E9%BA%B5/@25.0386352,121.3902457,20z/data=!4m6!3m5!1s0x3442a702c9de9b31:0x8d5106c65ee4e2ee!8m2!3d25.038749!4d121.3904561!16s%2Fg%2F11vxxbt795?hl=zh-TW&entry=ttu"
         },
         {
+            "name": "A7文青假日美食",
+            "id": "A7-100",
+            "type": "行動餐車",
+            "address": "桃園市龜山區文化一路& 文青路",
+            "hours": "週六日: 16:00 - 20:00",
+            "figure": "RES-A7-100.jpeg",
+            "figureLogo": "RES-A7-100L.jpeg",
+            "line": "您已被邀請加入「A7文青假日美食」！請點選以下連結加入社群！\r\nhttps://line.me/ti/g2/aetiD4gbb6IYzv8GWUgwg6WFPlUTHL902rEBZg?utm_source=invitation&utm_medium=link_copy&utm_campaign=default",
+            "category": "A7",
+            "category2": "5.合宜住宅區",
+            "description": "8/3號試營運\r\n<nl>\r\n<li>摀香臭豆腐</li>\r\n<li>1219烤鴨</li>\r\n<li>古早味刈包</li>\r\n<li>叮噹脆皮雞蛋糕</li>\r\n</nl>\r\n8/4試營運\r\n<nl>\r\n<li>販麵仔</li>\r\n<li>福來齊啃美食餐車</li>\r\n</nl>",
+            "google": "https://www.google.com/maps/place/%E5%AF%8C%E5%AE%87%E5%AF%8C%E5%BE%A1+%E6%8E%A5%E5%BE%85%E4%B8%AD%E5%BF%83+%7C+A7%E9%87%8D%E5%8A%83%E5%8D%80%E6%96%B0%E5%BB%BA%E6%A1%88/@25.0400382,121.3835681,18z/data=!4m9!1m2!2m1!1zQTfmlofpnZLlgYfml6Xnvo7po58!3m5!1s0x3442a70036ebdb49:0x6154a2b86d8f79e4!8m2!3d25.0400382!4d121.3850754!16s%2Fg%2F11y2p8wzdm?authuser=0&hl=zh-TW&entry=ttu"
+        },
+        {
             "name": "華潮手創料理",
             "id": "A8-001",
             "type": "無菜單料理",
