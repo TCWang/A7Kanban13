@@ -6,11 +6,11 @@
         <div class="flex flex-row">
           <RestaurantSideBar />
 
-          <NuxtImg
+          <!-- <NuxtImg
             src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-03-restaurant.jpeg"
             alt=""
             class="w-[150px] md:w-[200px] h-[150px] md:h-[200px] rounded-xl"
-          />
+          /> -->
         </div>
         <div class="max-w-sm ml-2 mb-2">
           資料來源:

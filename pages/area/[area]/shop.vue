@@ -6,7 +6,7 @@
         <ShopSideBar />
 
         <NuxtImg
-          src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-03-yellowpage.png"
+          src="/images/logo/LOG-03-yellowpage.png"
           alt=""
           class="w-[150px] md:w-[200px] h-[150px] md:h-[200px] rounded-xl"
         />

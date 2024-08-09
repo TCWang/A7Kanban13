@@ -28,26 +28,25 @@
           <a v-show="shop.web" :href="shop.web">
             <NuxtImg
               class="h-12 hover:scale-150"
-              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-Web.jpeg"
+              src="/images/logo/LOG-01-Web.jpeg"
             />
           </a>
           <a v-show="shop.facebook" :href="shop.facebook">
             <NuxtImg
               class="h-12 hover:scale-150"
-              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-Facebook.png
-            "
+              src="/images/logo/LOG-01-Facebook.png"
             />
           </a>
           <a v-show="shop.line" :href="shop.line">
             <NuxtImg
               class="h-12 hover:scale-150"
-              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-Line.png"
+              src="/images/logo/LOG-01-Line.png"
             />
           </a>
           <a v-show="shop.ig" :href="shop.ig">
             <NuxtImg
               class="h-12 hover:scale-150"
-              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-Ig.png"
+              src="/images/logo/LOG-01-Ig.png"
             />
           </a>
         </p>

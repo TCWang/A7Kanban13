@@ -39,20 +39,19 @@
           <a v-show="gbuying.web" :href="gbuying.web">
             <NuxtImg
               class="h-12 hover:scale-150"
-              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-Web.jpeg"
+              src="/images/logo/LOG-01-Web.jpeg"
             />
           </a>
           <a v-show="gbuying.facebook" :href="gbuying.facebook">
             <NuxtImg
               class="h-12 hover:scale-150"
-              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-Facebook.png
-            "
+              src="/images/logo/LOG-01-Facebook.png"
             />
           </a>
           <a v-show="gbuying.line" :href="gbuying.line">
             <NuxtImg
               class="h-12 hover:scale-150"
-              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-Line.png"
+              src="/images/logo/LOG-01-Line.png"
             />
           </a>
         </div>

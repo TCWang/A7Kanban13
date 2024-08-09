@@ -35,39 +35,36 @@
           <a v-show="restaurant.web" :href="restaurant.web">
             <NuxtImg
               class="h-12 hover:scale-150"
-              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-Web.jpeg"
+              src="/images/logo/LOG-01-Web.jpeg"
             />
           </a>
           <a v-show="restaurant.facebook" :href="restaurant.facebook">
             <NuxtImg
               class="h-12 hover:scale-150"
-              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-Facebook.png
-            "
+              src="/images/logo/LOG-01-Facebook.png"
             />
           </a>
           <a v-show="restaurant.line" :href="restaurant.line">
             <NuxtImg
               class="h-12 hover:scale-150"
-              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-Line.png"
+              src="/images/logo/LOG-01-Line.png"
             />
           </a>
           <a v-show="restaurant.ig" :href="restaurant.ig">
             <NuxtImg
               class="h-12 hover:scale-150"
-              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-Ig.png"
+              src="/images/logo/LOG-01-Ig.png"
             />
           </a>
           <a v-show="restaurant.uber" :href="restaurant.uber">
             <NuxtImg
               class="h-12 hover:scale-150"
-              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-Uber.jpeg"
+              src="/images/logo/LOG-01-Uber.jpeg"
             />
           </a>
           <a v-show="restaurant.panda" :href="restaurant.panda">
-            <NuxtImg
-              class="h-12 hover:scale-150"
-              src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-Panda.png"
-            />
+            <NuxtImg class="h-12 hover:scale-150"
+            src=/images/logo/LOG-01-Panda.png" />
           </a>
         </p>
       </div>
