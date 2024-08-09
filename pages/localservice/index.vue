@@ -47,25 +47,25 @@
               <a v-show="post.web" :href="post.web">
                 <NuxtImg
                   class="h-12 hover:scale-150"
-                  src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-Web.jpeg"
+                  src="/images/logo/LOG-01-Web.jpeg"
                 />
               </a>
               <a v-show="post.facebook" :href="post.facebook">
                 <NuxtImg
                   class="h-12 hover:scale-150"
-                  src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-Facebook.png"
+                  src="/images/logo/LOG-01-Facebook.png"
                 />
               </a>
               <a v-show="post.line" :href="post.line">
                 <NuxtImg
                   class="h-12 hover:scale-150"
-                  src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-Line.png"
+                  src="/images/logo/LOG-01-Line.png"
                 />
               </a>
               <a v-show="post.ig" :href="post.ig">
                 <NuxtImg
                   class="h-12 hover:scale-150"
-                  src="https://kgptltaqnkidtcqkathb.supabase.co/storage/v1/object/public/a7-images/logo/LOG-01-Ig.png"
+                  src="/images/logo/LOG-01-Ig.png"
                 />
               </a>
             </div>
