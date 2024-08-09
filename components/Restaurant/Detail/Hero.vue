@@ -63,8 +63,10 @@
             />
           </a>
           <a v-show="restaurant.panda" :href="restaurant.panda">
-            <NuxtImg class="h-12 hover:scale-150"
-            src=/images/logo/LOG-01-Panda.png" />
+            <NuxtImg
+              class="h-12 hover:scale-150"
+              src="/images/logo/LOG-01-Panda.png"
+            />
           </a>
         </p>
       </div>
