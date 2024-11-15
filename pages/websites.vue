@@ -20,6 +20,13 @@
         本網站版本是 2023/10 V2.0 版, 將逐步將 V1.0網站內容轉移到 V2.0。
         V2.0全面優化使用者介面，將以看板形式提供區域資訊。
       </p>
+
+      A7新林口-社區網站 V2.0
+
+      <a href="https://a7kanban13.netlify.app/">
+        <NuxtImg src="images/logo/LOG-00-qr.png" />
+      </a>
+
       <h2>網站架構</h2>
       <ol class="flex flex-wrap space-x-4">
         <li class="bg-slate-200 m-2 p-2 shadow-md rounded-xl">
