@@ -1,0 +1,1 @@
+import{_ as t}from"./NavBar.YdtBYng5.js";import{_ as n,c as a,b as c,am as s,o as r}from"./entry.YvWWI-_S.js";const _={},l={class:"container mx-full p-4"};function f(e,m){const o=t;return r(),a("div",l,[c(o),s(e.$slots,"default")])}const i=n(_,[["render",f]]);export{i as default};
